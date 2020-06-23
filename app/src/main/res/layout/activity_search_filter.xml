@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/searchFilter_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main.SearchFilterActivity">
+
+    <include layout="@layout/layout_top_navigation_back" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="150dp"
+        android:text="Search Setting: "
+        android:id="@+id/Search_setting"
+        android:textColor="@android:color/black"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textSize="16dp"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="200dp"
+        android:orientation="vertical"
+        android:layout_marginRight="20dp"
+        android:layout_marginStart="50dp"
+        android:layout_centerHorizontal="true"
+        >
+        <RadioGroup
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/search_setting_radiogroup">
+            <RadioButton
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="Don't show matched"
+                android:layout_marginBottom="10dp"
+                android:padding="4dp"
+                android:id="@+id/check_1"/>
+            <RadioButton
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="Don't show searched"
+                android:layout_marginBottom="10dp"
+                android:padding="4dp"
+                android:id="@+id/check_2"/>
+
+            <RadioButton
+                android:id="@+id/check_3"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:padding="4dp"
+                android:text="Show Only Users Have Different Gender With You" />
+
+            <RadioButton
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="Show Only Users Have Same Gender With You"
+                android:layout_marginBottom="10dp"
+                android:padding="4dp"
+                android:id="@+id/check_4"/>
+            <RadioButton
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:text="Show all results"
+                android:padding="4dp"
+                android:id="@+id/check_5"/>
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/change_search_setting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center|center_horizontal"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="500dp"
+        android:layout_marginBottom="100dp"
+        android:background="@drawable/white_rounded_button"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:padding="2dp"
+        android:text="CHANGE" />
+
+
+</RelativeLayout>

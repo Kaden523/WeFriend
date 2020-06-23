@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Main.SettingActivity">
+
+    <include layout="@layout/layout_top_navigation_back"/>
+
+    <Button
+        android:id="@+id/log_out"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="LOG OUT"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/white_rounded_button"
+        android:textColor="@android:color/white"
+        android:textSize="18dp"
+        android:textAllCaps="true"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/setting_manage_account"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="10dp"
+        android:background="@drawable/white_rounded_button"
+        android:text="Manage Account"
+        android:textAllCaps="true"
+        android:textColor="@android:color/white"
+        android:textSize="16dp"
+        android:textStyle="bold" />
+
+
+</LinearLayout>

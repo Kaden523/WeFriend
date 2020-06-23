@@ -1,0 +1,26 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_grey_border_bottom"
+        android:paddingBottom="10dp">
+
+        <com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx
+            android:id="@+id/topNavViewBar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#090909"
+            app:itemIconTint="@color/colorPrimary"
+            app:itemRippleColor="#009688"
+            app:labelVisibilityMode="selected"
+            app:menu="@menu/top_navigation_toolbar">
+
+        </com.ittianyu.bottomnavigationviewex.BottomNavigationViewEx>
+
+    </LinearLayout>
+
+</merge>

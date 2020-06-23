@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "147765425218",
+    "firebase_url": "https://wefriend-myproject.firebaseio.com",
+    "project_id": "wefriend-myproject",
+    "storage_bucket": "wefriend-myproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147765425218:android:c54ffec3e7b5af4159a9db",
+        "android_client_info": {
+          "package_name": "com.wefriend.wefriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147765425218-3637juqnup4rnjo1rqrp89cl9otifn4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXzN4wsgaFbZbnO3vinRskaEhSDBl72rY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147765425218-3637juqnup4rnjo1rqrp89cl9otifn4c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

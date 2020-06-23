@@ -1,0 +1,2875 @@
+<resources>
+    <string name="app_name">WeFriend</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <integer-array name="img_id_arr">
+        <item>@drawable/img1</item>
+        <item>@drawable/img2</item>
+        <item>@drawable/img3</item>
+    </integer-array>
+    <string name="default_college">Please select your college</string>
+    <string-array name="colleges">
+        <item>Please select your college</item>
+        <item>-------------------------------------------------</item>
+        <item>4Cs The Center for Child Care Careers</item>
+        <item>A &amp; J Training Institute for Southern California</item>
+        <item>A.T. Still University of Health Sciences</item>
+        <item>ABC Adult School</item>
+        <item>ABC Beauty College, Inc.</item>
+        <item>Abraham Baldwin Agricultural College</item>
+        <item>Academia Morales</item>
+        <item>Academia Serrant</item>
+        <item>Academy Di Capelli</item>
+        <item>Academy of Art University</item>
+        <item>Academy of Career Training</item>
+        <item>Academy of Cosmetology</item>
+        <item>Academy of Hair Design</item>
+        <item>Academy of Massage Therapy - Hackensack</item>
+        <item>Academy of Professional Careers</item>
+        <item>Access Careers - Hempstead</item>
+        <item>Ace Cosmetology &amp; Barber Training Center</item>
+        <item>ACE Institute of Technology</item>
+        <item>ACT College - Arlington</item>
+        <item>Adams State University</item>
+        <item>Adelphi University</item>
+        <item>Adirondack Community College</item>
+        <item>Adler University</item>
+        <item>Adult and Community Education, Columbus City Schools</item>
+        <item>Advance Beauty College</item>
+        <item>Advance English Academy</item>
+        <item>Advanced Career Institute - Visalia</item>
+        <item>Advanced College</item>
+        <item>Advanced Welding Institute</item>
+        <item>Advocate Health Care System</item>
+        <item>Aesthetics Institute of Cosmetology</item>
+        <item>Agape English Language Institute for Internationals</item>
+        <item>Age of Montessori</item>
+        <item>Aims Community College</item>
+        <item>Air Force Institute of Technology</item>
+        <item>Airstreams Renewables, Inc.</item>
+        <item>Alabama Southern Community College</item>
+        <item>Alamance Community College</item>
+        <item>Alaska Bible College</item>
+        <item>Alaska Vocational Technical Center</item>
+        <item>Albany College of Pharmacy</item>
+        <item>Albany State University</item>
+        <item>Albany Technical College</item>
+        <item>Albertus Magnus College</item>
+        <item>Albright College</item>
+        <item>Alcorn State University</item>
+        <item>Alexandria Technical and Community College</item>
+        <item>Alexian Brothers Health System</item>
+        <item>All Beauty College</item>
+        <item>Allegany College of Maryland</item>
+        <item>Alle-Kiski Medical Center</item>
+        <item>Allen County Community College</item>
+        <item>Allen School of Health Sciences</item>
+        <item>Alliance Computing Solutions (ACS)</item>
+        <item>Alliant International University</item>
+        <item>Allina CPE Center</item>
+        <item>Alpena Community College</item>
+        <item>Altamaha Technical College</item>
+        <item>Altierus Career College</item>
+        <item>Alvernia University</item>
+        <item>Amarillo College</item>
+        <item>America Evangelical University</item>
+        <item>American Academy of Dramatic Arts</item>
+        <item>American Academy of English</item>
+        <item>American Beauty Academy - Wheaton</item>
+        <item>American Broadcasting School</item>
+        <item>American Career College</item>
+        <item>American Career Institute - Framingham</item>
+        <item>American College of Healthcare and Technology</item>
+        <item>American Commercial College - Abilene</item>
+        <item>American Commercial College of Texas</item>
+        <item>American Educational College - Bayamon</item>
+        <item>American English College</item>
+        <item>American Fitness and Nutrition Academy</item>
+        <item>American Flight Training LLC</item>
+        <item>American Harbor College</item>
+        <item>American Institute</item>
+        <item>American Institute of Beauty</item>
+        <item>American InterContinental University</item>
+        <item>American International  College</item>
+        <item>American National College</item>
+        <item>American National University</item>
+        <item>American National University - Salem</item>
+        <item>American University</item>
+        <item>American University of Puerto Rico</item>
+        <item>Ameritech College of Healthcare</item>
+        <item>Anabaptist Mennonite Biblical Seminary</item>
+        <item>Anamarc College - Santa Teresa</item>
+        <item>Anderson Medical Career College</item>
+        <item>Anderson University</item>
+        <item>Andover College</item>
+        <item>Andrews University</item>
+        <item>Angeles College</item>
+        <item>Angelina College</item>
+        <item>Angley College</item>
+        <item>Anna Maria College</item>
+        <item>Anne Arundel Community College</item>
+        <item>Anoka Technical College</item>
+        <item>Anoka-Ramsey Community College</item>
+        <item>Anthem College - Bryman School</item>
+        <item>Anthem College - Maryland Heights</item>
+        <item>Anthem College - Phoenix</item>
+        <item>Antioch University</item>
+        <item>Aparicio-Levy Technical Center</item>
+        <item>Apollo Career Center</item>
+        <item>Appalachian Bible College</item>
+        <item>Applied Technology Services-South County</item>
+        <item>Apprentice for the Electrical Industry IBEW Local 98</item>
+        <item>Aquinas College</item>
+        <item>Aquinas Institute of Theology</item>
+        <item>Arapahoe Community College</item>
+        <item>Arcadia University</item>
+        <item>ARCLabs</item>
+        <item>Argosy University</item>
+        <item>Arizona Christian University</item>
+        <item>Arizona College</item>
+        <item>Arizona School of Integrative Studies - ASIS Massage Education</item>
+        <item>Arizona State University</item>
+        <item>Arizona Western College</item>
+        <item>Arkansas Baptist College</item>
+        <item>Arkansas College of Barbering and Hair Design</item>
+        <item>Arkansas Northeastern College</item>
+        <item>Arkansas State University</item>
+        <item>Arkansas State University - Beebe</item>
+        <item>Arkansas State University - Newport</item>
+        <item>Arkansas State University Mountain Home</item>
+        <item>Arkansas Tech University</item>
+        <item>Armstrong State University</item>
+        <item>Arthur\'s Beauty College</item>
+        <item>Arthur\'s Beauty College, Inc. - Conway</item>
+        <item>Artistic Nails and Beauty Academy</item>
+        <item>ASA College</item>
+        <item>Asbury Theological Seminary</item>
+        <item>Asher College</item>
+        <item>Asheville Buncombe Technical Community College</item>
+        <item>Ashford University</item>
+        <item>Ashland Community and Technical College</item>
+        <item>Ashland County - West Holmes Career Center</item>
+        <item>Ashland Theological Seminary</item>
+        <item>Ashland University</item>
+        <item>ASI Career Institute</item>
+        <item>Asnuntuck Community College</item>
+        <item>Assemblies of God Theological Seminary</item>
+        <item>Associated Builders &amp; Contractors, Greater Michigan Chapter dba Greater Michigan Construction Academy</item>
+        <item>Assumption College</item>
+        <item>ATA College</item>
+        <item>A-Technical College</item>
+        <item>Athena Career Academy</item>
+        <item>Athens State University</item>
+        <item>Athens Technical College</item>
+        <item>ATI Career Training Center - Dallas</item>
+        <item>ATI Career Training Center - North Richland Hills</item>
+        <item>Atlantic Cape Community College</item>
+        <item>Atlantic Technical College</item>
+        <item>Auburn Career Center</item>
+        <item>Auburn University Main Campus</item>
+        <item>Augsburg University</item>
+        <item>Augusta Technical College</item>
+        <item>Augusta University</item>
+        <item>Auguste Escoffier School of Culinary Arts</item>
+        <item>Aurora University</item>
+        <item>Austin Community College</item>
+        <item>Austin Kade Academy</item>
+        <item>Austin Peay State University</item>
+        <item>Aveda Arts &amp; Sciences Institute Corpus Christi</item>
+        <item>Aveda Arts &amp; Sciences Institute Covington</item>
+        <item>Aveda Institute of Columbus</item>
+        <item>Aveda Institute Portland</item>
+        <item>Aveda Institute South Florida</item>
+        <item>Aveda Institute Tallahassee</item>
+        <item>Aveda Institute Tucson</item>
+        <item>Avenue Five Institute</item>
+        <item>Avera Health ACPE System Center</item>
+        <item>Aviation and Electronic Schools of America - Colfax</item>
+        <item>Aviation Institute of Maintenance - Atlanta</item>
+        <item>Avivo Institute of Career and Technical Education</item>
+        <item>Award Beauty School</item>
+        <item>Axis Business Academy - Ben Crenshaw Campus</item>
+        <item>Azure College</item>
+        <item>Azusa Pacific University</item>
+        <item>Babson College</item>
+        <item>Bacone College</item>
+        <item>Baker College</item>
+        <item>Baker University</item>
+        <item>Baldwin Beauty Schools</item>
+        <item>Baldwin Park Adult and Community Education</item>
+        <item>Baldwin Wallace University</item>
+        <item>Ball State University</item>
+        <item>Baltimore City Community College</item>
+        <item>Bangor Theological Seminary</item>
+        <item>Bank Street College of Education</item>
+        <item>Baptist Missionary Association Theological Seminary</item>
+        <item>Baptist Seminary of Kentucky</item>
+        <item>Barber Institute of Texas, LLC</item>
+        <item>Barber School of Pittsburgh</item>
+        <item>Bard College</item>
+        <item>Bard College at Simon\'s Rock: The Early College</item>
+        <item>Barone Beauty Academy</item>
+        <item>Barry University</item>
+        <item>Barton County Community College</item>
+        <item>Bastyr University</item>
+        <item>Baton Rouge College</item>
+        <item>Bay Area College of Nursing</item>
+        <item>Bay Area Medical Academy</item>
+        <item>Bay de Noc Community College</item>
+        <item>Bay Mills Community College</item>
+        <item>Bay Path University</item>
+        <item>Bay State College</item>
+        <item>Baylor University</item>
+        <item>Baylor University Medical Center</item>
+        <item>BCI</item>
+        <item>Beaumont Health</item>
+        <item>Beauty Academy of South Florida</item>
+        <item>Beauty Schools of America</item>
+        <item>Beauty Technical College Inc</item>
+        <item>Becker College</item>
+        <item>Becker Professional Development Corporation</item>
+        <item>Beckfield College</item>
+        <item>Bee-Jay\'s Hairstyling Academy</item>
+        <item>Belhaven University</item>
+        <item>Bell Brown Medical Institute</item>
+        <item>Bella Capelli Academy A Paul Mitchell Partner School</item>
+        <item>Bellefonte Academy of Beauty</item>
+        <item>Bellevue University</item>
+        <item>Bellus Academy</item>
+        <item>Belmont College</item>
+        <item>Belmont University</item>
+        <item>Bemidji State University</item>
+        <item>Benedictine College</item>
+        <item>Benedictine University</item>
+        <item>Bene\'s Career Academy</item>
+        <item>Bennington College</item>
+        <item>Bentley University</item>
+        <item>Bergen Community College</item>
+        <item>Bergen County Technical Schools</item>
+        <item>Berkeley College</item>
+        <item>Berks Technical Institute</item>
+        <item>Berkshire Community College</item>
+        <item>Berlitz Language Centers</item>
+        <item>Bethany College</item>
+        <item>Bethany Theological Seminary</item>
+        <item>Bethel University</item>
+        <item>Bethesda College of Health Sciences</item>
+        <item>Bethlehem College &amp; Seminary</item>
+        <item>Bethune - Cookman University</item>
+        <item>Bevill State Community College</item>
+        <item>Bexley Hall Seabury-Western Theological Seminary Federation, Inc.</item>
+        <item>Big Sandy Community and Technical College</item>
+        <item>Biola University</item>
+        <item>Bismarck State College</item>
+        <item>BJ\'s Beauty and Barber College</item>
+        <item>Black Hawk College</item>
+        <item>Black Hills State University</item>
+        <item>Black River Technical College</item>
+        <item>Blackhawk Technical College</item>
+        <item>Blackstone Career Institute</item>
+        <item>Bladen Community College</item>
+        <item>Blake Austin College</item>
+        <item>Blessing-Rieman College of Nursing and Health Sciences</item>
+        <item>Blinn College District</item>
+        <item>Bloomfield College</item>
+        <item>Bloomsburg University of Pennsylvania</item>
+        <item>Blue Ridge Community and Technical College</item>
+        <item>Blue Ridge Community College</item>
+        <item>Blue River Community College</item>
+        <item>Bluefield State College</item>
+        <item>Bluffton University</item>
+        <item>Boca Beauty Academy</item>
+        <item>Boricua College</item>
+        <item>Borner\'s Barber College</item>
+        <item>Boston College</item>
+        <item>Boston Graduate School of Psychoanalysis Inc</item>
+        <item>Boston University</item>
+        <item>Bowie State University</item>
+        <item>Bowling Green State University</item>
+        <item>Bradley University</item>
+        <item>Brandman University</item>
+        <item>Branford Hall Career Institute - Amityville</item>
+        <item>Branford Hall Career Institute - Branford Campus</item>
+        <item>Brenau University</item>
+        <item>Brensten Education</item>
+        <item>Brescook, LLC Dale Carnegie Training</item>
+        <item>Brewton-Parker College</item>
+        <item>Briar Cliff University</item>
+        <item>Briarcliffe College</item>
+        <item>Bridge Education Group, Inc.</item>
+        <item>Bridgerland Technical College</item>
+        <item>BridgeValley Community and Technical College</item>
+        <item>Bridgewater State University</item>
+        <item>Brigham Young University</item>
+        <item>Brightwood Career Institute</item>
+        <item>Brightwood Career Institute - Broomall</item>
+        <item>Brightwood Career Institute - Harrisburg</item>
+        <item>Brightwood College</item>
+        <item>Brightwood College  - Dallas</item>
+        <item>Brightwood College - El Paso</item>
+        <item>Brightwood College - Hammond</item>
+        <item>Brightwood College - Modesto Campus</item>
+        <item>Brightwood College - Nashville</item>
+        <item>Brightwood College - North Hollywood</item>
+        <item>Brightwood College - Sacramento</item>
+        <item>Brightwood College - San Antonio</item>
+        <item>Brightwood College - San Diego</item>
+        <item>Brightwood College - Vista</item>
+        <item>Brillare Beauty Institute</item>
+        <item>Brillare Hairdressing Academy - Scottsdale</item>
+        <item>Bristol Community College</item>
+        <item>Bristol Technical Education Center</item>
+        <item>Brittany Beauty Academy</item>
+        <item>Broadview University</item>
+        <item>Broken Arrow Beauty College, Inc</item>
+        <item>Brookdale Community College</item>
+        <item>Brookline College - Phoenix</item>
+        <item>Brooklyn College of the City University of New York</item>
+        <item>Brooks College</item>
+        <item>Brooks Institute</item>
+        <item>Brookstone College of Business - Charlotte</item>
+        <item>Broward College</item>
+        <item>Brown &amp; Clermont Adult Career Campuses</item>
+        <item>Brown Aveda Institute</item>
+        <item>Brown College Brooklyn Center Campus</item>
+        <item>Brown Mackie College - Salina</item>
+        <item>Brown University</item>
+        <item>Bryan University</item>
+        <item>Bryant and Stratton College</item>
+        <item>Buchanan Beauty College</item>
+        <item>Buckeye Career Center</item>
+        <item>Buckeye Hills Career Center</item>
+        <item>Bucks County Community College</item>
+        <item>Buena Vista University</item>
+        <item>Buffalo Public Schools Adult Education Division</item>
+        <item>Bunker Hill Community College</item>
+        <item>Burlington Technical Center</item>
+        <item>Butler County Community College</item>
+        <item>Butler Technology and Career Development Schools</item>
+        <item>Butler University</item>
+        <item>Cabrini University</item>
+        <item>Cairn University</item>
+        <item>Cal America Education Institute</item>
+        <item>CALC Institute of Technology</item>
+        <item>Caldwell Community College and Technical Institute</item>
+        <item>Caldwell University</item>
+        <item>Calhoun Community College</item>
+        <item>California Aeronautical University</item>
+        <item>California Career Institute</item>
+        <item>California College of the Arts</item>
+        <item>California College-San Diego</item>
+        <item>California Hair Design Academy</item>
+        <item>California Institute of Arts &amp; Technology</item>
+        <item>California Language Academy Group d/b/a California Language Academy</item>
+        <item>California Lutheran University</item>
+        <item>California School of Health Sciences</item>
+        <item>California State Polytechnic University, Pomona</item>
+        <item>California State University - Bakersfield</item>
+        <item>California State University - Channel Islands</item>
+        <item>California State University - Chico</item>
+        <item>California State University - Dominguez Hills</item>
+        <item>California State University - East Bay</item>
+        <item>California State University - Fresno</item>
+        <item>California State University - Fullerton</item>
+        <item>California State University - Los Angeles</item>
+        <item>California State University - Sacramento</item>
+        <item>California State University - San Bernardino</item>
+        <item>California State University - San Marcos</item>
+        <item>California State University - Stanislaus</item>
+        <item>California Technical Academy</item>
+        <item>California Technical Education College</item>
+        <item>California University of Management and Sciences</item>
+        <item>California University of Pennsylvania</item>
+        <item>Calumet College of St. Joseph</item>
+        <item>Calvary University</item>
+        <item>Cambria-Rowe Business College</item>
+        <item>Cambridge College</item>
+        <item>Cambridge College of Healthcare &amp; Technology</item>
+        <item>Cambridge Junior College - Yuba City</item>
+        <item>Camden County College</item>
+        <item>Cameron University</item>
+        <item>Campbell University</item>
+        <item>Camphill Academy</item>
+        <item>Canisius College</item>
+        <item>Cankdeska Cikana Community College</item>
+        <item>Canton City Schools - Adult Community Education</item>
+        <item>Canton City Schools Adult Community Education Center</item>
+        <item>Cape Cod Community College</item>
+        <item>Cape Fear Community College</item>
+        <item>Cape Girardeau Career and Technology Center</item>
+        <item>Capital Area Technical College</item>
+        <item>Capital Education Institute</item>
+        <item>Capital Region Career and Technical School</item>
+        <item>Capital University</item>
+        <item>Capitol City Trade and Technical School</item>
+        <item>Capitol Technology University</item>
+        <item>Capri Beauty College</item>
+        <item>Capri College</item>
+        <item>Capri Cosmetology Learning Center</item>
+        <item>Cardinal Stritch University</item>
+        <item>Career Academy of Hair Design</item>
+        <item>Career Care Institute - Lancaster</item>
+        <item>Career Colleges of America - South Gate</item>
+        <item>Career Institute of Health andTechnology</item>
+        <item>Career Point College</item>
+        <item>Career Quest Learning Center</item>
+        <item>Caribbean University</item>
+        <item>Caritas Christi Health Care System</item>
+        <item>Carl Albert State College</item>
+        <item>Carl Sandburg College</item>
+        <item>Carleen Home Health Schools, Inc</item>
+        <item>Carlos Albizu University</item>
+        <item>Carlow University</item>
+        <item>Carnegie Mellon University</item>
+        <item>Carolina Beauty College 8</item>
+        <item>Carolina Christian College</item>
+        <item>Carolina College of Hair Design</item>
+        <item>Carpenters Joint Apprentice Training Center of Philadelphia and Vicinity (JATC)</item>
+        <item>Carrington College</item>
+        <item>Carrington College - Phoenix</item>
+        <item>Carrington College- Portland</item>
+        <item>Carroll Community College</item>
+        <item>Carroll University</item>
+        <item>Carthage Technical Center</item>
+        <item>Casa Loma College</item>
+        <item>Case Western Reserve University</item>
+        <item>Castleton University</item>
+        <item>Catawba Valley Community College</item>
+        <item>Catholic Distance University</item>
+        <item>Catholic University of America</item>
+        <item>Cayuga County Community College</item>
+        <item>Cazenovia College</item>
+        <item>CCI Training Center, Inc. - Arlington</item>
+        <item>CC\'s Cosmetology College</item>
+        <item>CDA Technical Institute</item>
+        <item>CDE Career Institute</item>
+        <item>Cecil Community College</item>
+        <item>Cedar Crest College</item>
+        <item>Cedar Valley College</item>
+        <item>Celebrity School of Beauty</item>
+        <item>CEM College</item>
+        <item>Centenary University</item>
+        <item>Center for Asia-Pacific Exchange, The</item>
+        <item>Center for Employment Training</item>
+        <item>Center for Explosive Ordnance Disposal and Diving</item>
+        <item>Center for Information Warfare Training (CIWT)</item>
+        <item>Center for Instruction, Technology, and Innovation (CiTi)</item>
+        <item>Center for Montessori Education NY</item>
+        <item>Center for Naval Aviation Technical Training (CNATT)</item>
+        <item>Center for Naval Engineering (CNE)</item>
+        <item>Center for Naval Intelligence (CNI)</item>
+        <item>Center for Seabees and Facilities Engineering (CSFE)</item>
+        <item>Center for Security Forces (CENSECFOR)</item>
+        <item>Center for Service Support (CSS)</item>
+        <item>Center for Surface Combat Systems (CSCS)</item>
+        <item>Central Alabama Community College</item>
+        <item>Central Arizona College</item>
+        <item>Central Baptist College</item>
+        <item>Central Baptist Theological Seminary</item>
+        <item>Central Bible College</item>
+        <item>Central Carolina Community College</item>
+        <item>Central Carolina Technical College</item>
+        <item>Central Christian College of Kansas</item>
+        <item>Central Coast College</item>
+        <item>Central College of Cosmetology</item>
+        <item>Central Community College</item>
+        <item>Central Connecticut State University</item>
+        <item>Central Florida Institute - Palm Harbor</item>
+        <item>Central Georgia Technical College</item>
+        <item>Central Lakes College</item>
+        <item>Central Louisiana Technical Community College - Alexandria</item>
+        <item>Central Maine Community College</item>
+        <item>Central Methodist University</item>
+        <item>Central Michigan University</item>
+        <item>Central New Mexico Community College</item>
+        <item>Central Ohio Technical College</item>
+        <item>Central Penn College</item>
+        <item>Central Piedmont Community College</item>
+        <item>Central State University</item>
+        <item>Central Texas Beauty College</item>
+        <item>Central Texas College</item>
+        <item>Central Wyoming College</item>
+        <item>Central Yeshiva Tomchei Tmimim Lubavitz</item>
+        <item>Centro de Capacitacion y Asesoramiento Vetelba</item>
+        <item>Centura Health</item>
+        <item>Century College</item>
+        <item>CES College</item>
+        <item>Chadron State College</item>
+        <item>Chamberlain University</item>
+        <item>Chaminade University of Honolulu</item>
+        <item>Champlain Valley Educational Services (CEWW BOCES)</item>
+        <item>Chancellor University</item>
+        <item>Chapman University</item>
+        <item>Charles of Italy Beauty College</item>
+        <item>Charles Stewart Mott Community College</item>
+        <item>Charleston Southern University</item>
+        <item>Charlotte Technical College</item>
+        <item>Charter College</item>
+        <item>Charter College - Lancaster</item>
+        <item>Chatfield College</item>
+        <item>Chatham University</item>
+        <item>Chattahoochee Technical College</item>
+        <item>Chemeketa Community College</item>
+        <item>Chesapeake College</item>
+        <item>Chester Career College</item>
+        <item>Chestnut Hill College</item>
+        <item>Chicago State University</item>
+        <item>Children\'s Hospital of Los Angeles</item>
+        <item>Chippewa Valley Technical College</item>
+        <item>Chiron Training Center</item>
+        <item>Christendom College</item>
+        <item>Christian Homes, Inc.</item>
+        <item>Christine Valmy International School of Esthetics &amp; Cosmetology</item>
+        <item>CHRISTUS SPOHN Hospital Corpus Christi</item>
+        <item>Cincinnati Christian University</item>
+        <item>Cincinnati State Technical and Community College</item>
+        <item>Cinta Aveda Institute</item>
+        <item>Cisco Junior College</item>
+        <item>City College - Fort Lauderdale</item>
+        <item>City College of New York of the City University of New York, The</item>
+        <item>City Colleges of Chicago - Wilbur Wright College</item>
+        <item>City Colleges of Chicago-Harold Washington College</item>
+        <item>City Colleges of Chicago-Kennedy-King College</item>
+        <item>City Colleges of Chicago-Malcolm X College</item>
+        <item>City Colleges of Chicago-Richard J Daley College</item>
+        <item>Clarendon College</item>
+        <item>Clarion University of Pennsylvania</item>
+        <item>Clark State Community College</item>
+        <item>Clark University</item>
+        <item>Clarke University</item>
+        <item>Clarks Summit University</item>
+        <item>Clarkson University</item>
+        <item>Cleary University</item>
+        <item>Cleveland State University</item>
+        <item>Cleveland University-Kansas City</item>
+        <item>Cloud County Community College</item>
+        <item>Clovis Community College</item>
+        <item>Coast Career Institute</item>
+        <item>Coastal Bend College</item>
+        <item>Coastal College</item>
+        <item>Coastal Pines Technical College</item>
+        <item>Cochise College</item>
+        <item>Coconino County Community College</item>
+        <item>Coffeyville Community College</item>
+        <item>Colby Community College</item>
+        <item>Coleman University</item>
+        <item>College for Creative Studies</item>
+        <item>College of Biblical Studies-Houston</item>
+        <item>College of Business and Technology - Miami</item>
+        <item>College of Central Florida</item>
+        <item>College of Coastal Georgia</item>
+        <item>College of DuPage</item>
+        <item>College of Eastern Utah</item>
+        <item>College of Idaho</item>
+        <item>College of Lake County</item>
+        <item>College of Menominee Nation</item>
+        <item>College of Mount Saint Vincent</item>
+        <item>College of New Jersey, The</item>
+        <item>College of New Rochelle, The</item>
+        <item>College of Our Lady of the Elms</item>
+        <item>College of Saint Elizabeth</item>
+        <item>College of Saint Mary</item>
+        <item>College of Saint Scholastica</item>
+        <item>College of Southern Maryland</item>
+        <item>College of St Joseph</item>
+        <item>College of the Albemarle</item>
+        <item>College Unbound</item>
+        <item>Collin County Community College District</item>
+        <item>Collins Career Center</item>
+        <item>Colorado Christian University</item>
+        <item>Colorado Mesa University</item>
+        <item>Colorado Mountain College</item>
+        <item>Colorado Northwestern Community College</item>
+        <item>Colorado State University</item>
+        <item>Colorado State University - Global Campus</item>
+        <item>Colorado State University - Pueblo</item>
+        <item>Colorado Technical University</item>
+        <item>Columbia Central University</item>
+        <item>Columbia College</item>
+        <item>Columbia College of Nursing</item>
+        <item>Columbia Gorge Community College</item>
+        <item>Columbia International University</item>
+        <item>Columbia State Community College</item>
+        <item>Columbus State Community College</item>
+        <item>Columbus Technical College</item>
+        <item>Community Care College</item>
+        <item>Community Christian College</item>
+        <item>Community College of Allegheny County</item>
+        <item>Community College of Aurora</item>
+        <item>Community College of Beaver County</item>
+        <item>Community College of Denver</item>
+        <item>Community College of Philadelphia</item>
+        <item>Community College of Rhode Island</item>
+        <item>Community College of the Air Force</item>
+        <item>Community College of Vermont</item>
+        <item>Compass Career College</item>
+        <item>Computer Institute of Technology</item>
+        <item>Computer Systems Institute</item>
+        <item>Computer Systems Institute - Gurnee</item>
+        <item>ComputerTraining.edu</item>
+        <item>Concord University</item>
+        <item>Concorde Career College</item>
+        <item>Concorde Career College - Aurora</item>
+        <item>Concordia College</item>
+        <item>Concordia Theological Seminary</item>
+        <item>Concordia University</item>
+        <item>Concordia University Chicago</item>
+        <item>Concordia University Texas</item>
+        <item>Concordia University, St. Paul</item>
+        <item>Connect English Language Institute</item>
+        <item>Connors State College</item>
+        <item>Continental School of Beauty Culture - Olean</item>
+        <item>Conversa Language Center</item>
+        <item>Conway School of Landscape Design</item>
+        <item>Copiah-Lincoln Community College</item>
+        <item>Coppin State University</item>
+        <item>Coral Springs Regional Institute of Public Safety</item>
+        <item>Corcoran College of Art and Design</item>
+        <item>Corinth Academy of Cosmetology, Inc</item>
+        <item>Cornell University</item>
+        <item>Cornerstone University</item>
+        <item>Corning Community College</item>
+        <item>Cortiva Institute</item>
+        <item>Cortiva Institute - Chicago</item>
+        <item>Cortiva Institute - Pennsylvania School of Muscle Therapy</item>
+        <item>Cortiva Institute - Seattle</item>
+        <item>Cosmetic Arts Institute</item>
+        <item>Cosmetology Academy of Texarkana</item>
+        <item>Cosmetology and Spa Academy</item>
+        <item>Cosmopolitan Beauty &amp; Tech School</item>
+        <item>Cossatot Community College of the University of Arkansas</item>
+        <item>Cottage Montessori</item>
+        <item>County College of Morris</item>
+        <item>Court Reporting Institute of St. Louis</item>
+        <item>Covenant Theological Seminary</item>
+        <item>Cowley College</item>
+        <item>Cox College</item>
+        <item>Crave Beauty Academy</item>
+        <item>Creighton University</item>
+        <item>Crescent City School of Gaming &amp; Bartending</item>
+        <item>Crowder College</item>
+        <item>Crown College</item>
+        <item>Culinary Institute of America</item>
+        <item>Culinary Tech Center</item>
+        <item>Cumberland County College</item>
+        <item>Curry College</item>
+        <item>Cuyahoga Community College</item>
+        <item>Cybertex Institute of Technology</item>
+        <item>D.A. Dorsey Technical College</item>
+        <item>Dabney S Lancaster Community College</item>
+        <item>Dade Medical College - Miami</item>
+        <item>Daemen College</item>
+        <item>Dakota College at Bottineau</item>
+        <item>Dakota County Technical College</item>
+        <item>Dakota State University</item>
+        <item>Dakota Wesleyan University</item>
+        <item>Dale Carnegie &amp; Associates, Inc.</item>
+        <item>Dallas Baptist University</item>
+        <item>Dallas Barber and Stylist College</item>
+        <item>Dallas Lash Academy</item>
+        <item>Dallas Theological Seminary</item>
+        <item>Daniel Webster College</item>
+        <item>Danville Area Community College</item>
+        <item>Davenport University</item>
+        <item>DAVENPORT UNIVERSITY-EASTERN REGION-DEARBORN</item>
+        <item>David Pressley Professional School of Cosmetology</item>
+        <item>Davidson County Community College</item>
+        <item>Davis College</item>
+        <item>Davis Technical College</item>
+        <item>Daymar College - Clarksville</item>
+        <item>Daymar College - New Boston</item>
+        <item>Daymar College - Owensboro</item>
+        <item>Daytona State College</item>
+        <item>DC 14 Apprenticeship Program Painters</item>
+        <item>DCI Career Institute</item>
+        <item>Dean College</item>
+        <item>Defense Acquisition University</item>
+        <item>Defense Security Cooperation University (DSCU)</item>
+        <item>Defiance College</item>
+        <item>Del Mar College</item>
+        <item>Delaware Area Career Center</item>
+        <item>Delaware County Community College</item>
+        <item>Delaware State University</item>
+        <item>Delaware Technical and Community College - Owens</item>
+        <item>Delaware Technical Community College</item>
+        <item>Delaware Valley University</item>
+        <item>Delgado Community College</item>
+        <item>Delta College</item>
+        <item>Delta College of Arts &amp; Technology</item>
+        <item>Delta State University</item>
+        <item>Denmark College</item>
+        <item>Denver Seminary</item>
+        <item>DePaul University</item>
+        <item>Des Moines Area Community College</item>
+        <item>Des Moines University - Osteopathic Medical Center</item>
+        <item>DeSales University</item>
+        <item>DeSigner Barber &amp; Stylist School LLC</item>
+        <item>Design\'s School of Cosmetology</item>
+        <item>Detroit Business Institute - Downriver</item>
+        <item>DeVry University</item>
+        <item>Dewey University - Hato Rey Campus</item>
+        <item>Dickinson State University</item>
+        <item>Diesel Driving Academy</item>
+        <item>Digital Film Academy</item>
+        <item>Dine College</item>
+        <item>Discovery Diving Company</item>
+        <item>Diversified Vocational College - Los Angeles</item>
+        <item>Dixie Technical College</item>
+        <item>Doane University</item>
+        <item>Dodge City Community College</item>
+        <item>Dominican University</item>
+        <item>Dominican University of California</item>
+        <item>Donnelly College</item>
+        <item>Dorsey School of Business</item>
+        <item>Dorsey Schools</item>
+        <item>Douglas Education Center</item>
+        <item>Douglas J Aveda Institute</item>
+        <item>Dover Business College - Clifton</item>
+        <item>Dowling College</item>
+        <item>DPT Business School</item>
+        <item>Drake College of Business</item>
+        <item>Drake University</item>
+        <item>Drew University</item>
+        <item>Drexel University</item>
+        <item>Drury University</item>
+        <item>DuBois Business College</item>
+        <item>Duke University</item>
+        <item>Dunwoody College of Technology</item>
+        <item>Duquesne University</item>
+        <item>Durham Beauty Academy</item>
+        <item>Durham Technical Community College</item>
+        <item>Dutchess Community College</item>
+        <item>DVS College</item>
+        <item>Eagle Gate College</item>
+        <item>Eagle Rock College</item>
+        <item>East Arkansas Community College</item>
+        <item>East Carolina University</item>
+        <item>East Central College</item>
+        <item>East Central Technical College</item>
+        <item>East Central University</item>
+        <item>East Georgia State College</item>
+        <item>East Mississippi Community College</item>
+        <item>East San Gabriel Valley Regional Occupational Program and Technical Center</item>
+        <item>East Stroudsburg University of Pennsylvania</item>
+        <item>East Texas Baptist University</item>
+        <item>Eastern Arizona College</item>
+        <item>Eastern College of Health Vocations</item>
+        <item>Eastern Florida State College</item>
+        <item>Eastern Gateway Community College</item>
+        <item>Eastern Illinois University</item>
+        <item>Eastern Iowa Community College District</item>
+        <item>Eastern Kentucky University</item>
+        <item>Eastern Maine Community College</item>
+        <item>Eastern Mennonite University</item>
+        <item>Eastern Michigan University</item>
+        <item>Eastern Nazarene College</item>
+        <item>Eastern New Mexico University</item>
+        <item>Eastern New Mexico University - Roswell</item>
+        <item>Eastern Oklahoma State College</item>
+        <item>Eastern Suffolk Board of Cooperative Education, James Hines Administrative Center</item>
+        <item>Eastern University</item>
+        <item>Eastern Washington University</item>
+        <item>Eastern West Virginia Community and Technical College</item>
+        <item>Eastern Wyoming College</item>
+        <item>Eastland Fairfield Career and Technical Schools</item>
+        <item>East-West Healing Arts Institute</item>
+        <item>East-West University</item>
+        <item>EC Boston</item>
+        <item>eClips School of Cosmetology and Barbering</item>
+        <item>ECPI University</item>
+        <item>Edgecombe Community College</item>
+        <item>Edgewood College</item>
+        <item>EDIC College</item>
+        <item>Edinboro University of Pennsylvania</item>
+        <item>Edison State Community College</item>
+        <item>EDP University of Puerto Rico</item>
+        <item>Educational and Cultural Interactions/ Randall University</item>
+        <item>Edward Via Virginia College of Osteopathic Medicine</item>
+        <item>EF International Schools of English</item>
+        <item>EHOVE Adult Career Center</item>
+        <item>El Paso Community College District</item>
+        <item>Elaine Steven Beauty College</item>
+        <item>Elevate Salon Institute</item>
+        <item>Elgin Community College</item>
+        <item>Eli Whitney Technical High School</item>
+        <item>Elite School of Cosmetology</item>
+        <item>Elite Welding Academy</item>
+        <item>Elizabethtown College</item>
+        <item>Elizabethtown Community and Technical College</item>
+        <item>Elmhurst College</item>
+        <item>Elmira College</item>
+        <item>ELS Language Centers</item>
+        <item>Embassy CES</item>
+        <item>Embassy English</item>
+        <item>Embry-Riddle Aeronautical University - Daytona Beach</item>
+        <item>Emerson College</item>
+        <item>Emily Griffith Technical College</item>
+        <item>Emmanuel College</item>
+        <item>Emory University</item>
+        <item>Empire Beauty School</item>
+        <item>Empire Beauty School - Framingham</item>
+        <item>Empire Beauty School - Grand Rapids</item>
+        <item>Empire Beauty School - Hooksett</item>
+        <item>Empire Beauty School - Lehigh Valley</item>
+        <item>Empire Beauty School - Portland</item>
+        <item>Empire Beauty School - Pottsville</item>
+        <item>Empire Beauty School - Queens</item>
+        <item>Empire Beauty School - Somersworth</item>
+        <item>Empire Beauty School - Wyoming Valley</item>
+        <item>Employment Solutions - College for Technical Education</item>
+        <item>Emporia State University</item>
+        <item>Endicott College</item>
+        <item>English Language Center</item>
+        <item>English Language Institute</item>
+        <item>Enterprise State Community College</item>
+        <item>Erie 1 BOCES</item>
+        <item>Erie Business Center</item>
+        <item>Erie Community College</item>
+        <item>Erikson Institute</item>
+        <item>Erskine College</item>
+        <item>Erwin Technical College</item>
+        <item>Escuela Tecnica De Electricidad</item>
+        <item>Essex County College</item>
+        <item>Estelle Medical Academy</item>
+        <item>European Medical School of Massage LLC</item>
+        <item>Evangel University</item>
+        <item>Evangelical Theological Seminary</item>
+        <item>Everest College - Alhambra</item>
+        <item>Everest College - Ontario</item>
+        <item>Everest College - Phoenix</item>
+        <item>Everest College - Portland</item>
+        <item>Everest College - San Bernardino</item>
+        <item>Everest College - Skokie</item>
+        <item>Everest College - West Valley</item>
+        <item>Everest Institute - Brighton</item>
+        <item>Everest Institute - Grand Rapids</item>
+        <item>Everest Institute - Southfield</item>
+        <item>Evergreen Beauty and Barber College</item>
+        <item>Eve\'s College of Hairstyling</item>
+        <item>Expertise Cosmetology Institute</item>
+        <item>Fairfield University</item>
+        <item>Fairleigh Dickinson University</item>
+        <item>Fairmont State University</item>
+        <item>FastTrain College - Miami</item>
+        <item>FastTrain College - Plantation</item>
+        <item>FastTrain College - Tampa</item>
+        <item>Faulkner University</item>
+        <item>Fei Tian College</item>
+        <item>Felician University</item>
+        <item>Ferris State University</item>
+        <item>Ferrum College</item>
+        <item>FIDM/Fashion Institute of Design &amp; Merchandising</item>
+        <item>Finger Lakes Community College</item>
+        <item>Finger Lakes School of Massage</item>
+        <item>Finishing Trades Institute of Maryland, Virginia, Washington DC and Vicinities</item>
+        <item>Finishing Trades Institute of New England</item>
+        <item>Finishing Trades Institute of the Mid-Atlantic Region</item>
+        <item>First Coast Technical College</item>
+        <item>First Institute</item>
+        <item>First Response Medical Training</item>
+        <item>Fisher College</item>
+        <item>Fitchburg State University</item>
+        <item>Flagler College</item>
+        <item>Flagler Technical Center</item>
+        <item>Flathead Valley Community College</item>
+        <item>Flint Hills Technical College</item>
+        <item>Flint River Technical College</item>
+        <item>Florence-Darlington Technical College</item>
+        <item>Florida Academy</item>
+        <item>Florida Agricultural and Mechanical University</item>
+        <item>Florida Atlantic University</item>
+        <item>Florida Career College - Miami</item>
+        <item>Florida Center for Theological Studies</item>
+        <item>Florida Gateway College</item>
+        <item>Florida Hospital</item>
+        <item>Florida Medical Training Institute - Melbourne</item>
+        <item>Florida Memorial University</item>
+        <item>Florida National University</item>
+        <item>Florida Panhandle Technical College</item>
+        <item>Florida School of Traditional Midwifery</item>
+        <item>Florida Southern College</item>
+        <item>Florida SouthWestern State College</item>
+        <item>Florida State College at Jacksonville</item>
+        <item>Florida State University</item>
+        <item>Florida Technical College</item>
+        <item>Florida Vocational Institute</item>
+        <item>FLS International</item>
+        <item>Fond du Lac Tribal and Community College</item>
+        <item>Fontbonne University</item>
+        <item>Fordham University</item>
+        <item>Forest Institute of Professional Psychology</item>
+        <item>Forsyth Technical Community College</item>
+        <item>Fort Hays State University</item>
+        <item>Fort Lewis College</item>
+        <item>Fort Myers Technical College</item>
+        <item>Fort Scott Community College</item>
+        <item>Fort Valley State University</item>
+        <item>Fort Worth Beauty School</item>
+        <item>Fortis College</item>
+        <item>Fortis College - Norfolk</item>
+        <item>Fortis College - Orange Park</item>
+        <item>Fortis College- Winter Park</item>
+        <item>Fortis Institute</item>
+        <item>Fortis Institute - Birmingham</item>
+        <item>Fortis Institute - Cookeville</item>
+        <item>Fountain of Youth Academy of Cosmetology</item>
+        <item>Four County Career Center</item>
+        <item>Four-D College - Colton</item>
+        <item>Fox College Inc</item>
+        <item>Fox Valley Technical College</item>
+        <item>Framingham State University</item>
+        <item>Franciscan University of Steubenville</item>
+        <item>Frank Phillips College</item>
+        <item>Franklin Career Colleges, Inc. - Ontario</item>
+        <item>FRANKLIN CAREER INSTITUTE, BROOKLYN</item>
+        <item>Franklin College</item>
+        <item>Franklin Pierce University</item>
+        <item>Franklin Technology Center</item>
+        <item>Franklin University</item>
+        <item>Fred K. Marchman Technical College</item>
+        <item>Frederick Community College</item>
+        <item>Fresno Pacific University</item>
+        <item>Friends University</item>
+        <item>Front Range Community College</item>
+        <item>Frostburg State University</item>
+        <item>Fuller Theological Seminary</item>
+        <item>G Skin &amp; Beauty Institute</item>
+        <item>Gadsden Business College</item>
+        <item>Gadsden State Community College</item>
+        <item>Gainesville State College</item>
+        <item>Galen College of Nursing</item>
+        <item>Gannon University</item>
+        <item>Garden City Community College</item>
+        <item>Gardner-Webb University</item>
+        <item>Garrett College</item>
+        <item>Gaston College</item>
+        <item>Gateway Community and Technical College</item>
+        <item>Gateway Community College</item>
+        <item>Gateway Seminary</item>
+        <item>Gateway Technical College</item>
+        <item>Genesee Community College</item>
+        <item>Genesee Valley BOCES Batavia Campus</item>
+        <item>Genesis Career College</item>
+        <item>Genesis Career College - Cookeville</item>
+        <item>Geneva College</item>
+        <item>George C Wallace Community College</item>
+        <item>George Mason University</item>
+        <item>George Stone Technical College</item>
+        <item>George Washington University, The</item>
+        <item>Georgetown University</item>
+        <item>Georgia Beauty Academy - Dalton</item>
+        <item>Georgia Career Institute</item>
+        <item>Georgia College and State University</item>
+        <item>Georgia Driving Academy</item>
+        <item>Georgia Institute of Cosmetology</item>
+        <item>Georgia Institute of Technology - Main Campus</item>
+        <item>Georgia Military College - Milledgeville</item>
+        <item>Georgia Northwestern Technical College</item>
+        <item>Georgia Perimeter College</item>
+        <item>Georgia Piedmont Technical College</item>
+        <item>Georgia Southern University</item>
+        <item>Georgia Southwestern State University</item>
+        <item>Georgian Court University</item>
+        <item>GEOS New York Corp dba GEOS Languages Plus</item>
+        <item>Germanna Community College</item>
+        <item>Glen Oaks Community College</item>
+        <item>Glendale Career College</item>
+        <item>Glenville State College</item>
+        <item>Global Business Institute - Far Rockaway</item>
+        <item>Globe University</item>
+        <item>Goddard College</item>
+        <item>Gogebic Community College</item>
+        <item>Golden Gate University</item>
+        <item>Goldfarb School of Nursing at Barnes-Jewish College</item>
+        <item>Good Careers Academy</item>
+        <item>Goodwin University</item>
+        <item>Gordon College</item>
+        <item>Gordon Cooper Technology Center - Aviation Campus</item>
+        <item>Gordon-Conwell Theological Seminary</item>
+        <item>Goshen College</item>
+        <item>Goucher College</item>
+        <item>Governors State University</item>
+        <item>Grace College and Seminary</item>
+        <item>Grace University</item>
+        <item>Graceland University</item>
+        <item>Graduate School and University Center of the City University of New York, The</item>
+        <item>Grand Canyon University</item>
+        <item>Grand Rapids Community College</item>
+        <item>Grand Valley State University</item>
+        <item>Grand View University</item>
+        <item>Granite State College</item>
+        <item>Gratz College</item>
+        <item>Grayson College</item>
+        <item>Great Basin College</item>
+        <item>Great Bay Community College</item>
+        <item>Great Lakes Christian College</item>
+        <item>Great Lakes Institute of Technology</item>
+        <item>Great Oaks Career Campuses</item>
+        <item>Great Plains Technology Center</item>
+        <item>Greater Altoona Career and Technology Center</item>
+        <item>Greater Johnstown Career and Technology Center</item>
+        <item>Greater Southern Tier BOCES</item>
+        <item>Green Mountain College</item>
+        <item>Greenfield Community College</item>
+        <item>Greenville Technical College</item>
+        <item>Greenville University</item>
+        <item>Grifols Academy of Plasmapheresis</item>
+        <item>Griggs International Academy</item>
+        <item>Grinnell College</item>
+        <item>Guilford Technical Community College</item>
+        <item>Gulf Coast Montessori Teacher Education Center</item>
+        <item>Gurnick Academy of Medical Arts</item>
+        <item>GUTI, The Premier Beauty and Wellness Academy - Bradenton</item>
+        <item>Gwinnett College</item>
+        <item>Gwynedd Mercy University</item>
+        <item>H. Councill Trenholm State Community College</item>
+        <item>Hacienda La Puente Adult Education</item>
+        <item>Hagerstown Community College</item>
+        <item>Hair Expressions - Paul Mitchell Partner School</item>
+        <item>Hamline University</item>
+        <item>Hampton University</item>
+        <item>Hannibal-LaGrange University</item>
+        <item>Harcum College</item>
+        <item>Harding University</item>
+        <item>Hardin-Simmons University</item>
+        <item>Harper College</item>
+        <item>Harris School of Business - Cherry Hill</item>
+        <item>Harrisburg Area Community College</item>
+        <item>Harrisburg University of Science and Technology</item>
+        <item>Harrison College - Indianapolis</item>
+        <item>Harris-Stowe State University</item>
+        <item>Hartford Seminary</item>
+        <item>Harvard University</item>
+        <item>Hawaii Pacific University</item>
+        <item>Hawkeye Community College</item>
+        <item>Hays Academy of Hair Design</item>
+        <item>Haywood Community College</item>
+        <item>Hazard Community and Technical College</item>
+        <item>HCI College</item>
+        <item>HDS Truck Driving Institute</item>
+        <item>Heald College - Central Administrative Office</item>
+        <item>Healing Hands School of Holistic Health</item>
+        <item>Healing Mountain Massage School</item>
+        <item>Health and Style Institute, LLC</item>
+        <item>Healthy Hair Academy - Dallas</item>
+        <item>Heartland Community College</item>
+        <item>Hebrew Theological College</item>
+        <item>Hebrew Union College - Jewish Institute of Religion</item>
+        <item>Heidelberg University</item>
+        <item>Helms College</item>
+        <item>Henderson Community College</item>
+        <item>Henderson State University</item>
+        <item>Hennepin Technical College</item>
+        <item>Henry Ford College</item>
+        <item>Heritage College</item>
+        <item>Heritage College - Denver</item>
+        <item>Heritage Institute</item>
+        <item>Herzing University</item>
+        <item>Hibbing Community College</item>
+        <item>High Desert Medical College</item>
+        <item>High Point University</item>
+        <item>Highland Community College</item>
+        <item>Hill College</item>
+        <item>Hillsborough Community College</item>
+        <item>Hillsdale Beauty College</item>
+        <item>Hillsdale College</item>
+        <item>Hinds Community College</item>
+        <item>Hiram College</item>
+        <item>Hocking College</item>
+        <item>Hodges University</item>
+        <item>Hofstra University</item>
+        <item>Hollywood Institute of Beauty Careers</item>
+        <item>Holmes Community College</item>
+        <item>Holy Apostles College and Seminary</item>
+        <item>Holy Cross College</item>
+        <item>Holy Family College</item>
+        <item>Holy Family University</item>
+        <item>Holyoke Community College</item>
+        <item>Hondros College of Nursing</item>
+        <item>Hood College</item>
+        <item>Hood Theological Seminary</item>
+        <item>Hope International University</item>
+        <item>Hopkinsville Community College</item>
+        <item>Horry-Georgetown Technical College</item>
+        <item>Houghton College</item>
+        <item>Houghton Lake Institute of Cosmetology LLC</item>
+        <item>House of Heavilin Beauty College - Raymore</item>
+        <item>Houston Area Plumbing Joint Apprenticeship Committee</item>
+        <item>Houston Community College</item>
+        <item>Houston Montessori Center</item>
+        <item>Houston School of Houston School of Carpentry</item>
+        <item>Houston Training Schools</item>
+        <item>Howard College</item>
+        <item>Howard Community College</item>
+        <item>Howard University</item>
+        <item>Hudson County Community College</item>
+        <item>Hudson Valley Community College</item>
+        <item>Hult International Business School</item>
+        <item>HUMINT Training - Joint Center of Excellence</item>
+        <item>Humphreys University</item>
+        <item>Hunter Business School</item>
+        <item>Hunter College of the City University of New York</item>
+        <item>Huntington University</item>
+        <item>Hussian College</item>
+        <item>Husson University</item>
+        <item>Hutchinson Community College</item>
+        <item>IBMC College - Fort Collins</item>
+        <item>IBO Technology Course</item>
+        <item>ICDC College</item>
+        <item>ICPR Junior College</item>
+        <item>Idaho State University</item>
+        <item>Ideal Beauty Academy</item>
+        <item>IITR Truck Schools</item>
+        <item>Illinois Central College</item>
+        <item>Illinois Eastern Community Colleges</item>
+        <item>Illinois Institute of Technology</item>
+        <item>Illinois Media School</item>
+        <item>Illinois School of Health Careers - Chicago</item>
+        <item>Illinois State University</item>
+        <item>Illinois Valley Community College</item>
+        <item>Imagine - Paul Mitchell Partner School</item>
+        <item>Immaculata University</item>
+        <item>Immokalee Technical College</item>
+        <item>Independence Community College</item>
+        <item>Indian Hills Community College</item>
+        <item>Indian River State College</item>
+        <item>Indiana Institute of Technology</item>
+        <item>Indiana State University</item>
+        <item>Indiana University - Purdue University Indianapolis</item>
+        <item>Indiana University Bloomington</item>
+        <item>Indiana University East</item>
+        <item>Indiana University Kokomo</item>
+        <item>Indiana University of Pennsylvania</item>
+        <item>Indiana University School of Optometry</item>
+        <item>Indiana University South Bend</item>
+        <item>Indiana University Southeast</item>
+        <item>Indiana Wesleyan University</item>
+        <item>Innovations Design Academy</item>
+        <item>Institute for Clinical Social Work</item>
+        <item>Institute for Guided Studies</item>
+        <item>Institute for Therapeutic Massage</item>
+        <item>Institute of Allied Medical Professions - Stamford</item>
+        <item>Institute of Health and Technology</item>
+        <item>Institute of Health Sciences</item>
+        <item>Institute of Medical and Business Careers</item>
+        <item>Institute of Technology</item>
+        <item>Instituto de Educacion Tecnica Ocupacional La Reine</item>
+        <item>IntelliTec College - Grand Junction</item>
+        <item>Inter American University of Puerto Rico Aguadilla</item>
+        <item>Inter American University of Puerto Rico Barranquitas</item>
+        <item>Inter American University of Puerto Rico Bayamon</item>
+        <item>Inter American University of Puerto Rico Guayama</item>
+        <item>Inter American University of Puerto Rico Metropolitan Campus</item>
+        <item>Inter American University of Puerto Rico Ponce</item>
+        <item>Interactive College of Technology</item>
+        <item>Interboro Institute</item>
+        <item>Intercoast Colleges</item>
+        <item>Interface College</item>
+        <item>International Academy of Hair Design - Mesa</item>
+        <item>International Beauty School</item>
+        <item>International Business College - El Paso</item>
+        <item>International House New York, Inc. dba OHC</item>
+        <item>International Institute for Restorative Practices</item>
+        <item>International Institute of Cosmetology, LLC</item>
+        <item>International School of Beauty</item>
+        <item>International School of Health, Beauty &amp; Technology</item>
+        <item>International Training Fund</item>
+        <item>International Union of Operating Engineers: Local 825</item>
+        <item>Intrax English Academies, LLC d/b/a Stafford House International</item>
+        <item>INTRAX International Institute</item>
+        <item>Inver Hills Community College</item>
+        <item>Iona College</item>
+        <item>Iowa Central Community College</item>
+        <item>Iowa Lakes Community College</item>
+        <item>Iowa School of Beauty</item>
+        <item>Iowa State University of Science and Technology</item>
+        <item>Iowa Valley Community College District</item>
+        <item>Iowa Wesleyan University</item>
+        <item>Iowa Western Community College</item>
+        <item>Itasca Community College</item>
+        <item>Itawamba Community College</item>
+        <item>ITT Technical Institute - Indianapolis</item>
+        <item>ITT Technical Institute - Spokane Valley</item>
+        <item>Ivy Tech Community College of Indiana</item>
+        <item>J F Ingram State Technical College</item>
+        <item>J Michael Harrold Beauty Academy</item>
+        <item>J Sargeant Reynolds Community College</item>
+        <item>J.F. Ingram Technical College</item>
+        <item>Jackson College</item>
+        <item>Jackson State Community College</item>
+        <item>Jacksonville Beauty Institute</item>
+        <item>James Albert School of Cosmetology</item>
+        <item>James H. Faulkner State Community College</item>
+        <item>Jamestown Business College</item>
+        <item>Jamestown Community College</item>
+        <item>Jay\'s Technical Institute</item>
+        <item>Jean Madeline Aveda Institute</item>
+        <item>Jefferson College</item>
+        <item>Jefferson College of Health Sciences</item>
+        <item>Jefferson Community and Technical College</item>
+        <item>Jefferson Community College</item>
+        <item>Jefferson Davis Community College</item>
+        <item>Jefferson State Community College</item>
+        <item>Jefferson Technical College</item>
+        <item>Jefferson-Lewis-Hamilton-Herkimer-Oneida BOCES</item>
+        <item>Jenks Beauty College</item>
+        <item>Jenny Lea Academy of Cosmetology</item>
+        <item>Jersey College</item>
+        <item>John A Logan College</item>
+        <item>John Brown University</item>
+        <item>John Carroll University</item>
+        <item>John F. Kennedy University</item>
+        <item>John Jay College of Criminal Justice of the City University of New York</item>
+        <item>John Marshall Law School - Atanta</item>
+        <item>John Paolo\'s Xtreme Beauty Institute</item>
+        <item>John Paolo\'s Xtreme Beauty Institute, Goldwell Products Artistry</item>
+        <item>John Tyler Community College</item>
+        <item>John Wood Community College</item>
+        <item>Johns Hopkins University</item>
+        <item>Johnson &amp; Wales University</item>
+        <item>Johnson County Community College</item>
+        <item>Jolie Health and Beauty Academy of Hazelton</item>
+        <item>Joliet Junior College</item>
+        <item>Jones College - Jacksonville</item>
+        <item>Jones County Junior College</item>
+        <item>Jones Hair Design College</item>
+        <item>Josef\'s School of Hair Design Inc</item>
+        <item>Joseph’s College of Cosmetology - Lincoln</item>
+        <item>Judson University</item>
+        <item>Kalamazoo Valley Community College</item>
+        <item>Kankakee Community College</item>
+        <item>Kansas City Kansas Community College</item>
+        <item>Kansas City University of Medicine and Biosciences</item>
+        <item>Kansas State University</item>
+        <item>Kaplan International</item>
+        <item>Kaplan Test Prep</item>
+        <item>Kaskaskia College</item>
+        <item>Katharine Gibbs School - New York City</item>
+        <item>Kean University</item>
+        <item>Keck Graduate Institute of Applied Life Sciences</item>
+        <item>Keiser University</item>
+        <item>Kellogg Community College</item>
+        <item>Kendall College</item>
+        <item>Kennebec Valley Community College</item>
+        <item>Kenneth Shuler School of Cosmetology</item>
+        <item>Kenneth Shuler School of Cosmetology &amp; Nails</item>
+        <item>Kenneth Shuler School of Cosmetology and Hair Design</item>
+        <item>Kenny\'s Academy of Barbering</item>
+        <item>Kent State University</item>
+        <item>Kettering College</item>
+        <item>Keuka College</item>
+        <item>Keune Academy by 124</item>
+        <item>Keystone College</item>
+        <item>Kilgore College</item>
+        <item>Kings Colleges USA, LLC, d/b/a Kings Education</item>
+        <item>Kirkwood Community College</item>
+        <item>Kirtland Community College</item>
+        <item>Knox Technical Center</item>
+        <item>Kutztown University of Pennsylvania</item>
+        <item>L.E. Fletcher Technical Community College</item>
+        <item>La Belle Beauty Academy</item>
+        <item>La Roche College</item>
+        <item>La Salle University</item>
+        <item>La Sierra University</item>
+        <item>Lab Four Professional Development Center</item>
+        <item>Labette Community College</item>
+        <item>Lac Courte Oreilles Ojibwe College</item>
+        <item>L\'Academie de Cuisine</item>
+        <item>Lackawanna College</item>
+        <item>Lacy Cosmetology School</item>
+        <item>LADO International Institute</item>
+        <item>LaGrange College</item>
+        <item>Lake Area Technical Institute</item>
+        <item>Lake Erie College</item>
+        <item>Lake Erie College of Osteopathic Medicine</item>
+        <item>Lake Forest Graduate School of Management</item>
+        <item>Lake Land College</item>
+        <item>Lake Michigan College</item>
+        <item>Lake Region State College</item>
+        <item>Lake Superior College</item>
+        <item>Lake Superior State University</item>
+        <item>Lake Technical College</item>
+        <item>Lakeland Community College</item>
+        <item>Lakeland University</item>
+        <item>Lakes Region Community College</item>
+        <item>Lakeshore Technical College</item>
+        <item>Lakeside School of Massage Therapy</item>
+        <item>Lake-Sumter State College</item>
+        <item>Lakeview College of Nursing</item>
+        <item>Lamar Institute of Technology</item>
+        <item>Lamar State College - Port Arthur</item>
+        <item>Lancaster Bible College</item>
+        <item>Lancaster County Career and Technology Center</item>
+        <item>Langston University</item>
+        <item>Language Studies International</item>
+        <item>Language Systems International</item>
+        <item>Lanier Technical College</item>
+        <item>Lansing Community College</item>
+        <item>Laramie County Community College</item>
+        <item>Laredo College</item>
+        <item>Las Vegas College</item>
+        <item>LaSalle Tech</item>
+        <item>LASC: American Language and Culture</item>
+        <item>Laurel Technical Institute - Sharon</item>
+        <item>Laurus College</item>
+        <item>Lawrence Technological University</item>
+        <item>Le Cordon Bleu College of Culinary Arts - Austin</item>
+        <item>Le Cordon Bleu College of Culinary Arts - Pasadena</item>
+        <item>Le Cordon Bleu College of Culinary Arts - Portland</item>
+        <item>Le Cordon Bleu College of Culinary Arts - Scottsdale</item>
+        <item>Learey Technical College</item>
+        <item>LearnQuest - Bala Cynwyd</item>
+        <item>Lebanon Valley College</item>
+        <item>Leech Lake Tribal College</item>
+        <item>Lehigh Carbon Community College</item>
+        <item>Lehigh Valley Hospital &amp; Health Network</item>
+        <item>Lenoir Community College</item>
+        <item>Leon Studio One School of Beauty Knowledge</item>
+        <item>Lesley University</item>
+        <item>L\'esprit Academy</item>
+        <item>LeTourneau University</item>
+        <item>Lewis and Clark Community College</item>
+        <item>Lewis University</item>
+        <item>Lex La-Ray Technical Center</item>
+        <item>Lexington Theological Seminary</item>
+        <item>Life Pacific University</item>
+        <item>Life Time Academy</item>
+        <item>Lil Lou\'s Beauty and Barber College</item>
+        <item>Lincoln Christian University</item>
+        <item>Lincoln College</item>
+        <item>Lincoln College of New England</item>
+        <item>Lincoln College of Technology - Dayton</item>
+        <item>Lincoln Land Community College</item>
+        <item>Lincoln Memorial University</item>
+        <item>Lincoln Technical Institute - Edison</item>
+        <item>Lincoln Technical Institute - Fern Park</item>
+        <item>Lincoln Technical Institute - Hartford</item>
+        <item>Lincoln University</item>
+        <item>Lindenwood University</item>
+        <item>Lindsey Hopkins Technical College</item>
+        <item>Lindsey Wilson College</item>
+        <item>Lingua Language Center at Broward College</item>
+        <item>Linn-Benton Community College</item>
+        <item>Lively Technical College</item>
+        <item>Living Arts College@School of Communication Arts</item>
+        <item>Lock Haven University of Pennsylvania</item>
+        <item>Logos Evangelical Seminary</item>
+        <item>Loma Linda University</item>
+        <item>Lone Star College System</item>
+        <item>Long Island Beauty School</item>
+        <item>Long Island Business Institute - Flushing</item>
+        <item>Long Island Jewish Medical Center</item>
+        <item>Long Island University</item>
+        <item>Longwood University</item>
+        <item>Lorain County Community College</item>
+        <item>Lord Fairfax Community College</item>
+        <item>Los Angeles Film School - Hollywood</item>
+        <item>Los Angeles ORT College</item>
+        <item>Los Angeles Recording School</item>
+        <item>Louisiana State University and A&amp;M College</item>
+        <item>Louisiana Technical College - Delta-Ouachita Campus</item>
+        <item>Louisiana Technical College - Lafayette</item>
+        <item>Lourdes University</item>
+        <item>Loyola Marymount University</item>
+        <item>Loyola University Chicago</item>
+        <item>Loyola University Maryland</item>
+        <item>Loyola University New Orleans</item>
+        <item>Lumos Language School</item>
+        <item>Luna Community College</item>
+        <item>Lurleen B Wallace Community College</item>
+        <item>Lutheran School of Theology at Chicago</item>
+        <item>Lutheran Services New York Alliance</item>
+        <item>Luzerne County Community College</item>
+        <item>Lyle\'s College of Beauty</item>
+        <item>Lynnes Welding Training</item>
+        <item>MacCormac College</item>
+        <item>Macomb Community College</item>
+        <item>Madison Area Technical College</item>
+        <item>Madison Media Institute</item>
+        <item>Madisonville Community College</item>
+        <item>Madonna University</item>
+        <item>Maharishi International University</item>
+        <item>Maine Maritime Academy</item>
+        <item>MAK Beauty Institute</item>
+        <item>Malone University</item>
+        <item>Manatee Technical College</item>
+        <item>Manchester University</item>
+        <item>Manhattan Area Technical College</item>
+        <item>Manhattan Christian College</item>
+        <item>Manhattan College</item>
+        <item>Manhattan Hairstyling Academy</item>
+        <item>Manhattanville College</item>
+        <item>Mansfield University of Pennsylvania</item>
+        <item>Manuel &amp; Theresa\'s School of Hair Design</item>
+        <item>Maria College of Albany</item>
+        <item>Maria Montessori Teacher Training Center</item>
+        <item>Marian College, Marian Health Career Center</item>
+        <item>Marian University</item>
+        <item>Maric College - Los Angeles</item>
+        <item>Maricopa Community Colleges - Chandler-Gilbert Community College</item>
+        <item>Maricopa Community Colleges - Estrella Mountain Community College</item>
+        <item>Maricopa Community Colleges - Gateway Community College</item>
+        <item>Maricopa Community Colleges - Glendale Community College</item>
+        <item>Maricopa Community Colleges - Mesa Community College</item>
+        <item>Maricopa Community Colleges - Paradise Valley Community College</item>
+        <item>Maricopa Community Colleges - Phoenix College</item>
+        <item>Maricopa Community Colleges - Rio Salado Community College</item>
+        <item>Maricopa Community Colleges - Scottsdale Community College</item>
+        <item>Maricopa Community Colleges - South Mountain Community College</item>
+        <item>Marinello School of Beauty</item>
+        <item>Marinello School of Beauty - Burbank</item>
+        <item>Marinello School of Beauty - Hemet</item>
+        <item>Marinello School of Beauty - Lake Forest</item>
+        <item>Marinello School of Beauty - Las Vegas</item>
+        <item>Marinello School of Beauty - Los Angeles</item>
+        <item>Marinello School of Beauty - Manhattan</item>
+        <item>Marinello School of Beauty - Moreno Valley</item>
+        <item>Marinello School of Beauty - Niantic</item>
+        <item>Marinello School of Beauty - Reno</item>
+        <item>Marinello School of Beauty - Sacramento</item>
+        <item>Marinello School of Beauty - San Francisco</item>
+        <item>Marinello School of Beauty - Santa Clara</item>
+        <item>Marinello School of Beauty - Topeka</item>
+        <item>Marion Technical College</item>
+        <item>Marist College</item>
+        <item>MarJon School of Beauty Culture Ltd</item>
+        <item>Marlboro College</item>
+        <item>Marquette University</item>
+        <item>Marshall University</item>
+        <item>Martin Community College</item>
+        <item>Mary Baldwin University</item>
+        <item>Maryland Beauty Academy - Essex</item>
+        <item>Maryland Institute College of Art</item>
+        <item>Marymount California University</item>
+        <item>Marymount Manhattan College</item>
+        <item>Maryville University of Saint Louis</item>
+        <item>Marywood University</item>
+        <item>Massachusetts Bay Community College</item>
+        <item>Massachusetts College of Art and Design</item>
+        <item>Massachusetts College of Liberal Arts</item>
+        <item>Massachusetts Maritime Academy</item>
+        <item>Massasoit Community College</item>
+        <item>Mattia College</item>
+        <item>Mayfield College</item>
+        <item>Mayland Community College</item>
+        <item>Mayo Clinic College of Medicine and Science</item>
+        <item>Maysville Community and Technical College</item>
+        <item>Mayville State University</item>
+        <item>MBTI Business Training Institute</item>
+        <item>McCann School of Business and Technology</item>
+        <item>McCann Technical School</item>
+        <item>McDaniel College</item>
+        <item>McDowell Technical Community College</item>
+        <item>McHenry County College</item>
+        <item>MCI Institute of Technology</item>
+        <item>McKendree University</item>
+        <item>McPherson College</item>
+        <item>MCPHS University</item>
+        <item>MDT College of Health Sciences, Inc.</item>
+        <item>Mechanical Trades Institute - Joint Apprenticeship and Training Trust</item>
+        <item>Mech-Tech College</item>
+        <item>Med Tech College - Indianapolis</item>
+        <item>Medaille College</item>
+        <item>Mediatech Institute</item>
+        <item>Medical College of Wisconsin</item>
+        <item>Med-Life Institute - Pompano Beach</item>
+        <item>MedQuest College</item>
+        <item>Memorial Hermann Hospital/Memorial Hermann Children\'s Hospital</item>
+        <item>Mentor Language Institute</item>
+        <item>Merced County Office of Education - Regional Occupational Program</item>
+        <item>Mercer County Community College</item>
+        <item>Mercer County Technical Schools - Assunpink Center</item>
+        <item>Mercer University</item>
+        <item>Mercy College</item>
+        <item>Mercyhurst University</item>
+        <item>Merkaz Bnos High School &amp; Career Institute</item>
+        <item>Mesabi Range College</item>
+        <item>Mesalands Community College</item>
+        <item>Messiah College</item>
+        <item>Metro Business College of Cape Girardeau</item>
+        <item>Metro Technology Centers - Springlake</item>
+        <item>Metropolitan College of New York</item>
+        <item>Metropolitan Community College</item>
+        <item>Metropolitan Community College - Kansas City</item>
+        <item>Metropolitan Learning Institute</item>
+        <item>Metropolitan State University</item>
+        <item>Metropolitan State University of Denver</item>
+        <item>Miami Ad School</item>
+        <item>Miami Dade College</item>
+        <item>Miami International University of Art and Design</item>
+        <item>Miami Lakes Educational Center and Technical College</item>
+        <item>Miami Regional University</item>
+        <item>Miami University</item>
+        <item>Michael\'s School of Beauty - Augusta</item>
+        <item>Michigan State University</item>
+        <item>Michigan Technological University</item>
+        <item>Micropower Career Institute, Manhattan</item>
+        <item>Mid Michigan College</item>
+        <item>Mid-America Christian University</item>
+        <item>MidAmerica Nazarene University</item>
+        <item>Middle Georgia State University</item>
+        <item>Middlebury College</item>
+        <item>Middlesex Community College - Bedford</item>
+        <item>Middlesex Community College - Middletown</item>
+        <item>Middlesex County College</item>
+        <item>Mid-East CTC, Adult Education</item>
+        <item>Midland College</item>
+        <item>Midland University</item>
+        <item>Midlands Technical College</item>
+        <item>Mid-Plains Community College - South Campus</item>
+        <item>Mid-State Technical College</item>
+        <item>Midwest Institute</item>
+        <item>Midwest Technical Institute</item>
+        <item>Midwest University</item>
+        <item>Midwestern Career College</item>
+        <item>Midwestern University</item>
+        <item>Milan Institute - Palm Desert</item>
+        <item>Milan Institute - San Antonio</item>
+        <item>Milan Institute - Visalia</item>
+        <item>Milan Institute of Cosmetology</item>
+        <item>Mildred Elley</item>
+        <item>Miller-Motte Technical College - Clarksville</item>
+        <item>Miller-Motte Technical College - Lynchburg</item>
+        <item>Millersville University of Pennsylvania</item>
+        <item>Milligan College</item>
+        <item>Millikin University</item>
+        <item>Milwaukee Area Technical College</item>
+        <item>Milwaukee School of Engineering</item>
+        <item>Mineral Area College</item>
+        <item>Minneapolis Community and Technical College</item>
+        <item>Minneapolis Media Institute</item>
+        <item>Minnesota School of Business</item>
+        <item>Minnesota School of Cosmetology</item>
+        <item>Minnesota State College Southeast</item>
+        <item>Minnesota State Community and Technical College</item>
+        <item>Minnesota State University - Mankato</item>
+        <item>Minnesota State University - Moorhead</item>
+        <item>Minnesota West Community and Technical College</item>
+        <item>Minot State University</item>
+        <item>Misericordia University</item>
+        <item>Missio Theological Seminary</item>
+        <item>Mississippi Barber Academy</item>
+        <item>Mississippi College</item>
+        <item>Mississippi Gulf Coast Community College</item>
+        <item>Mississippi State University</item>
+        <item>Missouri Baptist University</item>
+        <item>Missouri College of Cosmetology North</item>
+        <item>Missouri Southern State University</item>
+        <item>Missouri State University</item>
+        <item>Missouri State University - West Plains</item>
+        <item>Missouri University of Science and Technology</item>
+        <item>Missouri Valley College</item>
+        <item>Missouri Western State University</item>
+        <item>Mitchell Technical Institute</item>
+        <item>Mitchell\'s Academy</item>
+        <item>MJ\'s Beauty Academy Inc</item>
+        <item>Moberly Area Community College</item>
+        <item>Modern Hairstyling Institute</item>
+        <item>Mohave Community College</item>
+        <item>Mohawk Valley Community College</item>
+        <item>Molloy College</item>
+        <item>Monmouth County Post-Secondary Adult School</item>
+        <item>Monmouth University</item>
+        <item>Monroe 2 - Orleans BOCES Center for Workforce Development</item>
+        <item>Monroe College</item>
+        <item>Monroe Community College</item>
+        <item>Monroe County Community College</item>
+        <item>Montana State University - Billings</item>
+        <item>Montcalm Community College</item>
+        <item>Montclair State University</item>
+        <item>Montessori Education Center of the Rockies</item>
+        <item>Montessori Institute of North Texas</item>
+        <item>Montessori Live</item>
+        <item>Montessori Northwest</item>
+        <item>Montessori Teacher Education Center - San Francisco Bay Area</item>
+        <item>Montgomery College</item>
+        <item>Montgomery County Community College</item>
+        <item>Montreat College</item>
+        <item>Moody Bible Institute</item>
+        <item>Moraine Park Technical College</item>
+        <item>Moraine Valley Community College</item>
+        <item>Moravian College</item>
+        <item>Morgan Community College</item>
+        <item>Morningside College</item>
+        <item>Morrison University</item>
+        <item>Motlow State Community College</item>
+        <item>Moultrie Technical College</item>
+        <item>Mount Aloysius College</item>
+        <item>Mount Carmel College of Nursing</item>
+        <item>Mount Marty College</item>
+        <item>Mount Mercy University</item>
+        <item>Mount Saint Mary\'s University</item>
+        <item>Mount St Mary\'s University</item>
+        <item>Mount St. Joseph University</item>
+        <item>Mount Vernon Nazarene University</item>
+        <item>Mount Wachusett Community College</item>
+        <item>Mount Washington College</item>
+        <item>Mountain State University</item>
+        <item>Mountainland Technical College, Lehi</item>
+        <item>Mountwest Community and Technical College</item>
+        <item>Mr. Bernard\'s School of Hair Fashion, Inc.</item>
+        <item>Ms. Roberts Academy of Hair Design</item>
+        <item>Mueller College</item>
+        <item>Muhlenberg College</item>
+        <item>Multnomah University</item>
+        <item>Murray State College</item>
+        <item>Murray State University</item>
+        <item>Muskegon Community College</item>
+        <item>MyComputerCareer.com</item>
+        <item>MyrAngel Beauty Institute</item>
+        <item>Naropa University</item>
+        <item>Nashville State Community College</item>
+        <item>National Academy of Beauty Arts</item>
+        <item>National American University - Rapid City</item>
+        <item>National Aviation Academy</item>
+        <item>National Beauty College</item>
+        <item>National Career Institute</item>
+        <item>National College</item>
+        <item>National Cryptologic School</item>
+        <item>National Defense University</item>
+        <item>National Geospatial Intelligence College</item>
+        <item>National Graduate School of Quality Management, Inc.</item>
+        <item>National Holistic Institute</item>
+        <item>National Intelligence University</item>
+        <item>National Latino Education Institute</item>
+        <item>National Louis University</item>
+        <item>National Park College</item>
+        <item>National Personal Training Institute of Colorado</item>
+        <item>National Personal Training Institute of Columbus</item>
+        <item>National Personal Training Institute of Orlando</item>
+        <item>National Theatre Conservatory</item>
+        <item>National University</item>
+        <item>National University College - Bayamon</item>
+        <item>National University College- IBC Institute</item>
+        <item>National University of Health Sciences</item>
+        <item>Naugatuck Valley Community College</item>
+        <item>Navajo Technical University</item>
+        <item>Naval Chaplaincy School and Center</item>
+        <item>Naval Postgraduate School</item>
+        <item>Navarro College</item>
+        <item>Navy Medicine Education, Training and Logistics Command</item>
+        <item>Nazarene Bible College</item>
+        <item>Nazarene Theological Seminary</item>
+        <item>Nazareth College of Rochester</item>
+        <item>Nebraska Indian Community College</item>
+        <item>Nebraska Methodist College of Nursing and Allied Health</item>
+        <item>Nebraska Wesleyan University</item>
+        <item>NeeCee\'s College of Cosmetology</item>
+        <item>Neosho County Community College</item>
+        <item>Networks Barber College, Inc.</item>
+        <item>Neumann University</item>
+        <item>Neumont College of Computer Science</item>
+        <item>Nevada Regional Technical Center</item>
+        <item>New Brunswick Theological Seminary</item>
+        <item>New Community Career and Technical Institute</item>
+        <item>New Concept Massage and Beauty School</item>
+        <item>New England Business Educational Systems</item>
+        <item>New England College</item>
+        <item>New England Institute of Technology</item>
+        <item>New Hampshire Institute of Art</item>
+        <item>New Hope Christian College</item>
+        <item>New Horizons Medical Institute</item>
+        <item>New Jersey City University</item>
+        <item>New Jersey Institute of Technology</item>
+        <item>New Mexico Highlands University</item>
+        <item>New Mexico State University</item>
+        <item>New Mexico State University - Carlsbad</item>
+        <item>New Mexico State University - Dona Ana Community College</item>
+        <item>New Mexico State University at Alamogordo</item>
+        <item>New Orleans Baptist Theological Seminary</item>
+        <item>New River Community and Technical College</item>
+        <item>New River Community College</item>
+        <item>New York Chiropractic College</item>
+        <item>New York Film Academy, New York</item>
+        <item>New York Institute of Technology</item>
+        <item>New York Medical Career Training Center</item>
+        <item>New York School of Interior Design</item>
+        <item>New York Theological Seminary</item>
+        <item>New York University</item>
+        <item>Newbury College</item>
+        <item>Newman University</item>
+        <item>Niagara County Community College</item>
+        <item>Niagara University</item>
+        <item>Nichols College</item>
+        <item>Nicolet Area Technical College</item>
+        <item>Nobel University</item>
+        <item>North Adrian\'s Beauty College</item>
+        <item>North Arkansas College</item>
+        <item>North Carolina Wesleyan College</item>
+        <item>North Central College</item>
+        <item>North Central Kansas Technical College</item>
+        <item>North Central Michigan College</item>
+        <item>North Central Missouri College</item>
+        <item>North Central State College</item>
+        <item>North Central Texas College</item>
+        <item>North Country Community College</item>
+        <item>North Dakota State College of Science</item>
+        <item>North Dakota State University</item>
+        <item>North Florida Technical College</item>
+        <item>North Florida/South Georgia Veterans Health System</item>
+        <item>North Georgia Technical College</item>
+        <item>North Hennepin Community College</item>
+        <item>North Park University</item>
+        <item>North Shore Community College</item>
+        <item>Northampton Community College</item>
+        <item>Northcentral Technical College</item>
+        <item>Northcentral University</item>
+        <item>Northeast Community College</item>
+        <item>Northeast Iowa Community College</item>
+        <item>Northeast Montessori Institute</item>
+        <item>Northeast Ohio Medical University</item>
+        <item>Northeast State Community College</item>
+        <item>Northeast Technical Institute</item>
+        <item>Northeast Texas Community College</item>
+        <item>Northeast Wisconsin Technical College</item>
+        <item>Northeastern Illinois University</item>
+        <item>Northeastern Junior College</item>
+        <item>Northeastern Oklahoma A&amp;M College</item>
+        <item>Northeastern Seminary at Roberts Wesleyan College</item>
+        <item>Northeastern State University</item>
+        <item>Northeastern University</item>
+        <item>Northern Arizona University</item>
+        <item>Northern Baptist Theological Seminary</item>
+        <item>Northern Career Institute</item>
+        <item>Northern Essex Community College</item>
+        <item>Northern Illinois University</item>
+        <item>Northern Industrial Training</item>
+        <item>Northern Kentucky University</item>
+        <item>Northern Maine Community College</item>
+        <item>Northern Michigan University</item>
+        <item>Northern New Mexico College</item>
+        <item>Northern Oklahoma College</item>
+        <item>Northern State University</item>
+        <item>Northern Vermont University</item>
+        <item>Northern Virginia Community College</item>
+        <item>Northern Wyoming Community College District - Sheridan College</item>
+        <item>Northland Community and Technical College</item>
+        <item>Northland Pioneer College</item>
+        <item>Northpoint Bible College</item>
+        <item>Northshore Technical Community College, Lacombe Campus</item>
+        <item>NorthWest Arkansas Community College</item>
+        <item>Northwest College</item>
+        <item>Northwest College School of Beauty</item>
+        <item>Northwest Florida State College</item>
+        <item>Northwest Hair Academy, Mount Vernon</item>
+        <item>Northwest Kansas Technical College</item>
+        <item>Northwest Laborers-Employers Training Trust</item>
+        <item>Northwest Louisiana Technical College</item>
+        <item>Northwest Mississippi Community College</item>
+        <item>Northwest Missouri State University</item>
+        <item>Northwest State Community College</item>
+        <item>Northwest Technical College</item>
+        <item>Northwest Vista College</item>
+        <item>Northwestern College</item>
+        <item>Northwestern Michigan College</item>
+        <item>Northwestern Oklahoma State University</item>
+        <item>Northwestern State University of Louisiana</item>
+        <item>Northwestern University</item>
+        <item>Northwest-Shoals Community College - Muscle Shoals</item>
+        <item>Northwood University</item>
+        <item>Notre Dame College</item>
+        <item>Notre Dame de Namur University</item>
+        <item>Notre Dame of Maryland University</item>
+        <item>Nouvelle Institute</item>
+        <item>Nova Southeastern University</item>
+        <item>NTMA Training Centers of Southern California</item>
+        <item>Nuvani Institute</item>
+        <item>Nyack College at Nyack College Manhattan Center</item>
+        <item>Oakland City University</item>
+        <item>Oakland Community College</item>
+        <item>Oakland University</item>
+        <item>Oakton Community College</item>
+        <item>Ocean County College</item>
+        <item>Ocean County Vocational-Technical School</item>
+        <item>Oconee Fall Line Technical College</item>
+        <item>Ogden Weber Technical College</item>
+        <item>Oglala Lakota College</item>
+        <item>Ogle School Hair Skin Nails</item>
+        <item>Ogle School of Hair Skin Nails</item>
+        <item>Ogle School of Hair Skin Nails - Hurst</item>
+        <item>Ohio Business College</item>
+        <item>Ohio Christian University</item>
+        <item>Ohio Dominican University</item>
+        <item>Ohio Northern University</item>
+        <item>Ohio State School of Cosmetology</item>
+        <item>Ohio State University</item>
+        <item>Ohio University - Main Campus</item>
+        <item>Okaloosa Technical College and Choice High School</item>
+        <item>Okefenokee Technical College</item>
+        <item>Oklahoma Baptist University</item>
+        <item>Oklahoma Christian University</item>
+        <item>Oklahoma City Community College</item>
+        <item>Oklahoma City University</item>
+        <item>Oklahoma State University</item>
+        <item>Oklahoma State University - Oklahoma City</item>
+        <item>Oklahoma State University Institute of Technology - Okmulgee</item>
+        <item>Oklahoma Wesleyan University</item>
+        <item>Old Dominion University</item>
+        <item>Olivet College</item>
+        <item>Olivet Nazarene University</item>
+        <item>Olympian Academy of Cosmetology</item>
+        <item>Onondaga Community College</item>
+        <item>Onondaga School of Therapeutic Massage</item>
+        <item>Onondaga-Cortland-Madison BOCES</item>
+        <item>Oral Roberts University</item>
+        <item>Orange County Community College</item>
+        <item>Orange Technical College - Westside Campus</item>
+        <item>Orange Technical College - Winter Park Campus</item>
+        <item>Orange Technical College-Mid Florida Campus</item>
+        <item>Orangeburg Calhoun Technical College</item>
+        <item>Orange-Ulster BOCES</item>
+        <item>Oregon Health &amp; Science University</item>
+        <item>Orion College</item>
+        <item>Osceola Technical College (oTECH)</item>
+        <item>Otis College of Art and Design</item>
+        <item>Ottawa University</item>
+        <item>Ouachita Baptist University</item>
+        <item>Our Lady of the Lake University</item>
+        <item>Owens Community College</item>
+        <item>Owensboro Community and Technical College</item>
+        <item>Oxman College</item>
+        <item>Ozarka College</item>
+        <item>Ozarks Technical Community College</item>
+        <item>P &amp; A Scholars Beauty School</item>
+        <item>Pace University</item>
+        <item>Pacific College</item>
+        <item>Pacific College of Health and Science</item>
+        <item>Pacific Oaks College</item>
+        <item>Pacific Rim Christian University</item>
+        <item>Pacific School of Religion</item>
+        <item>Pacific Times Healthcare College</item>
+        <item>Pacific Union College</item>
+        <item>Pacific University</item>
+        <item>Pacific West Academy</item>
+        <item>Pacifica Graduate Institute</item>
+        <item>Palm Beach Academy of Health &amp; Beauty</item>
+        <item>Palm Beach Atlantic University</item>
+        <item>Palm Beach State College</item>
+        <item>Palm Harbor Montessori Teacher Education Center</item>
+        <item>Palmer College of Chiropractic</item>
+        <item>Palmer Theological Seminary of Eastern University</item>
+        <item>Palmetto Health</item>
+        <item>Panola College</item>
+        <item>ParentName</item>
+        <item>Paris Junior College</item>
+        <item>Park Avenue School of Cosmetology</item>
+        <item>Park University</item>
+        <item>Park West Barber School, LLC</item>
+        <item>Parkland College</item>
+        <item>Partners HealthCare System</item>
+        <item>Pasco-Hernando State College</item>
+        <item>Passaic County Community College</item>
+        <item>Patsy &amp; Rob\'s Academy of Beauty</item>
+        <item>Patten University</item>
+        <item>Paul D Camp Community College</item>
+        <item>Paul Mitchell The School - Esani</item>
+        <item>Paul Mitchell The School - Jacksonville</item>
+        <item>Paul Mitchell The School - Jersey Shore</item>
+        <item>Paul Mitchell The School - Madison</item>
+        <item>Paul Mitchell the School - Murfreesboro</item>
+        <item>Paul Mitchell the School - Provo</item>
+        <item>Paul Mitchell the School - Salt Lake City</item>
+        <item>Paul Mitchell The School Bradley</item>
+        <item>Paul Mitchell The School Cincinnati</item>
+        <item>Paul Mitchell the School Dallas</item>
+        <item>Paul Mitchell The School Escanaba</item>
+        <item>Paul Mitchell the School Fayetteville</item>
+        <item>Paul Mitchell the School Gastonia</item>
+        <item>Paul Mitchell The School Great Lakes</item>
+        <item>Paul Mitchell The School Richland</item>
+        <item>PC AGE - Jersey City</item>
+        <item>PC ProSchools, Inc.</item>
+        <item>PCI Academy</item>
+        <item>Pearl River Community College</item>
+        <item>Peirce College</item>
+        <item>Pellissippi State Community College</item>
+        <item>Peloton College</item>
+        <item>Pennsylvania College of Technology</item>
+        <item>Pennsylvania Highlands Community College</item>
+        <item>Pennsylvania Institute of Technology</item>
+        <item>Pennsylvania State University</item>
+        <item>Pensacola State College</item>
+        <item>Penta Career Center</item>
+        <item>Pentecostal Theological Seminary</item>
+        <item>Pepperdine University</item>
+        <item>Peru State College</item>
+        <item>Pfeiffer University</item>
+        <item>Philadelphia College of Osteopathic Medicine</item>
+        <item>Philadelphia Technician Training</item>
+        <item>Phillips Community College of the University of Arkansas</item>
+        <item>Phoebe Ministries</item>
+        <item>Pickaway-Ross Career and Technology Center</item>
+        <item>Piedmont College</item>
+        <item>Piedmont Community College</item>
+        <item>Piedmont Technical College</item>
+        <item>Pierce College</item>
+        <item>Pierpont Community and Technical College</item>
+        <item>Pike-Lincoln Technical Center</item>
+        <item>Pikes Peak Community College</item>
+        <item>Pillar College</item>
+        <item>Pima Community College</item>
+        <item>Pima Medical Institute</item>
+        <item>Pinchot University</item>
+        <item>Pinellas Technical College - St. Petersburg Campus</item>
+        <item>Pinnacle Career Institute</item>
+        <item>Pinnacle College</item>
+        <item>Pioneer Career and Technology Center</item>
+        <item>Pioneer Pacific College</item>
+        <item>Pittsburg State University</item>
+        <item>Pittsburgh Career Institute</item>
+        <item>Pittsburgh Technical College</item>
+        <item>Pittsburgh Theological Seminary</item>
+        <item>Pivot Point Academy - Bloomingdale</item>
+        <item>PJ\'s College of Cosmetology</item>
+        <item>Plymouth State University</item>
+        <item>Point Loma Nazarene University</item>
+        <item>Point Park University</item>
+        <item>Polk State College</item>
+        <item>Polytechnic Institute of New York University</item>
+        <item>Pomona Unified School District Adult and Career Education</item>
+        <item>Ponca City Beauty College</item>
+        <item>Ponce Paramedical College</item>
+        <item>Pontifical Catholic University of Puerto Rico</item>
+        <item>Poplar Bluff Technical Career Center</item>
+        <item>Portfolio Center</item>
+        <item>Portland Community College</item>
+        <item>Post University</item>
+        <item>Prairie View A &amp; M University</item>
+        <item>Pratt Community College</item>
+        <item>Pratt Institute</item>
+        <item>Praxis Institute</item>
+        <item>Preferred College of Nursing</item>
+        <item>Presbyterian Healthcare Services</item>
+        <item>Prescott College</item>
+        <item>Presentation College</item>
+        <item>Prince George\'s Community College</item>
+        <item>Prince Institute - Southeast</item>
+        <item>Princeton University</item>
+        <item>Prism Career Institute</item>
+        <item>Pro Way Hair School</item>
+        <item>Professional Careers Institute, Inc. - Houston</item>
+        <item>Professional Golfers Career College</item>
+        <item>Professional Hands Institute</item>
+        <item>Progressive Truck Driving School</item>
+        <item>Prospect College - DuPont</item>
+        <item>Protege Academy</item>
+        <item>Providence College</item>
+        <item>Pryor Beauty College</item>
+        <item>Pueblo Community College</item>
+        <item>Puerto Rico School of Nurse Anesthetists</item>
+        <item>Puerto Rico Technical Junior College Inc</item>
+        <item>Purdue University</item>
+        <item>Purdue University - North Central</item>
+        <item>Purdue University Fort Wayne</item>
+        <item>Purdue University Global</item>
+        <item>Purdue University Northwest</item>
+        <item>Putnam Career and Technical Center</item>
+        <item>Queen City College</item>
+        <item>Queens College of the City University of New York</item>
+        <item>Quest Career College</item>
+        <item>Quest College</item>
+        <item>Quincy College</item>
+        <item>Quincy University</item>
+        <item>Quinebaug Valley Community College</item>
+        <item>Quinnipiac University</item>
+        <item>Quinsigamond Community College</item>
+        <item>Radford University</item>
+        <item>Rainy River Community College</item>
+        <item>Ramapo College of New Jersey</item>
+        <item>Randolph Community College</item>
+        <item>Ranken Technical College</item>
+        <item>Raphael\'s School of Beauty Culture</item>
+        <item>Raphael\'s School of Beauty Culture Inc.</item>
+        <item>Rappahannock Community College</item>
+        <item>Raritan Valley Community College</item>
+        <item>Rasmussen College</item>
+        <item>Reading Area Community College</item>
+        <item>Red Rocks Community College</item>
+        <item>Redeemer Theological Seminary</item>
+        <item>Redlands Community College</item>
+        <item>Reformed Theological Seminary</item>
+        <item>Regency Beauty Institute</item>
+        <item>Regency Beauty Institute - Winston-Salem</item>
+        <item>Regent University</item>
+        <item>Regina\'s College of Beauty - Monroe</item>
+        <item>Regis College</item>
+        <item>Regis University</item>
+        <item>Reid State Technical College</item>
+        <item>Reinhardt University</item>
+        <item>Relay Graduate School of Education</item>
+        <item>Rend Lake College</item>
+        <item>Rennert New York</item>
+        <item>Rensselaer Polytechnic Institute</item>
+        <item>Resurrection University</item>
+        <item>Rhode Island College</item>
+        <item>Rhode Island School of Design</item>
+        <item>Richmont Graduate University</item>
+        <item>Rider University</item>
+        <item>Ridgewater College</item>
+        <item>Ridley-Lowell Business and Technical Institute - New London</item>
+        <item>RITZ BEAUTY ACADEMY, LLC</item>
+        <item>River Parishes Community College</item>
+        <item>River Valley Community College</item>
+        <item>Riverland Community College</item>
+        <item>Riverside Adult School</item>
+        <item>Riverside County Office of Education - School of Career Education</item>
+        <item>Roane State Community College</item>
+        <item>Robert Fiance Beauty Schools</item>
+        <item>Robert Morgan Educational Center and Technical College</item>
+        <item>Robert Morris University</item>
+        <item>Robert Morris University - Illinois</item>
+        <item>Roberts Wesleyan College</item>
+        <item>Rochester University</item>
+        <item>Rock Valley College</item>
+        <item>Rockhurst University</item>
+        <item>Rockland Community College</item>
+        <item>Rockland County BOCES</item>
+        <item>Roger Williams University</item>
+        <item>Roger\'s Academy of Hair Design</item>
+        <item>Rogers State University</item>
+        <item>Rollins College</item>
+        <item>Roosevelt University</item>
+        <item>Rose State College</item>
+        <item>Rose-Hulman Institute of Technology</item>
+        <item>Roseman University of Health Sciences</item>
+        <item>Rosemead College</item>
+        <item>Rosemont College</item>
+        <item>Roseville Adult School</item>
+        <item>Ross Medical Education Center</item>
+        <item>Ross Medical Education Center - Decatur</item>
+        <item>Rowan College at Burlington County</item>
+        <item>Rowan College of South Jersey</item>
+        <item>Rowan University</item>
+        <item>Rowan-Cabarrus Community College</item>
+        <item>Royal Learning Institute</item>
+        <item>Rudae\'s School of Beauty Culture</item>
+        <item>Rudolf Steiner College</item>
+        <item>Rutgers, The State University of New Jersey</item>
+        <item>Sabio Enterprises</item>
+        <item>Sacred Heart University</item>
+        <item>SAE Expression College</item>
+        <item>SAE Institute of Technology - Los Angeles</item>
+        <item>SAE Institute of Technology - Nashville</item>
+        <item>Sage College</item>
+        <item>Saginaw Valley State University</item>
+        <item>Saint Ambrose University</item>
+        <item>Saint Anthony College of Nursing</item>
+        <item>Saint Augustine College</item>
+        <item>Saint Cloud State University</item>
+        <item>Saint Francis University</item>
+        <item>Saint Gregory\'s University</item>
+        <item>Saint John Fisher College</item>
+        <item>Saint John\'s Seminary</item>
+        <item>Saint Josephs College</item>
+        <item>Saint Joseph\'s College, New York</item>
+        <item>Saint Joseph\'s Seminary</item>
+        <item>Saint Joseph\'s University</item>
+        <item>Saint Leo University</item>
+        <item>Saint Louis Community College</item>
+        <item>Saint Louis University</item>
+        <item>Saint Mary\'s College of California</item>
+        <item>Saint Mary\'s University of Minnesota</item>
+        <item>Saint Michael College of Allied Health</item>
+        <item>Saint Michaels College</item>
+        <item>Saint Norbert College</item>
+        <item>Saint Paul School of Theology</item>
+        <item>Saint Peter\'s University</item>
+        <item>Saint Vincent College and Seminary</item>
+        <item>Saint Xavier University</item>
+        <item>Salem State University</item>
+        <item>Salina Area Technical College</item>
+        <item>Salisbury University</item>
+        <item>Salon Institute - Toledo</item>
+        <item>Salon Success Academy</item>
+        <item>Salt Lake Community College</item>
+        <item>Salter College</item>
+        <item>Salus University</item>
+        <item>Salve Regina University</item>
+        <item>Samuel Merritt University</item>
+        <item>San Diego Christian College</item>
+        <item>San Diego College</item>
+        <item>San Diego State University</item>
+        <item>San Francisco Art Institute</item>
+        <item>San Francisco State University</item>
+        <item>San Jacinto College District</item>
+        <item>San Joaquin County Office of Education ROP/C</item>
+        <item>San Joaquin Valley College</item>
+        <item>San Jose State University</item>
+        <item>San Juan Bautista School of Medicine</item>
+        <item>San Juan College</item>
+        <item>Sandusky Adult Education</item>
+        <item>Sanford-Brown College</item>
+        <item>Sanford-Brown College - Houston</item>
+        <item>Sanford-Brown College at Jacksonville</item>
+        <item>Sanford-Brown College Chicago</item>
+        <item>Sanford-Brown Institute - Garden City</item>
+        <item>Santa Barbara Business College - Bakersfield</item>
+        <item>Santa Barbara Business College - Santa Maria</item>
+        <item>Santa Clara University</item>
+        <item>Santa Fe College</item>
+        <item>Santa Fe Community College</item>
+        <item>Santa Fe University of Art and Design</item>
+        <item>Sauk Valley Community College</item>
+        <item>Savannah College of Art and Design</item>
+        <item>Savannah Technical College</item>
+        <item>Sawyer School - Pawtucket</item>
+        <item>Saybrook University</item>
+        <item>SBI Campus - An Affiliate of Sanford-Brown</item>
+        <item>Schenectady County Community College</item>
+        <item>School of Health</item>
+        <item>Schoolcraft College</item>
+        <item>Scioto County Career Technical Center</item>
+        <item>Scott College of Cosmetology</item>
+        <item>SDCCD Continuing Education</item>
+        <item>Seacoast Career Schools</item>
+        <item>Seacoast Center for Education</item>
+        <item>Seattle University</item>
+        <item>Sebring Career Schools</item>
+        <item>Seguin Beauty School</item>
+        <item>Select Education Group, LLC dba Institute of Technology</item>
+        <item>Seminary of the Immaculate Conception</item>
+        <item>Seminole State College</item>
+        <item>Seminole State College of Florida</item>
+        <item>Seton Hall University</item>
+        <item>Sharp Edgez Barber Institute</item>
+        <item>Shaw University</item>
+        <item>Shawnee Community College</item>
+        <item>Shear Excellence Hair Academy</item>
+        <item>Shelton State Community College</item>
+        <item>Shenandoah University</item>
+        <item>Shepherd School of Language</item>
+        <item>Shepherd University</item>
+        <item>Shepherds Theological Seminary</item>
+        <item>Sheridan Technical College</item>
+        <item>Shippensburg University of Pennsylvania</item>
+        <item>Shorter University</item>
+        <item>Siegal College of Judaic Studies</item>
+        <item>Siena Heights University</item>
+        <item>Sikeston Career and Technology Center</item>
+        <item>Simmons University</item>
+        <item>Simpson College</item>
+        <item>Sinclair Community College</item>
+        <item>Sinte Gleska University</item>
+        <item>Sioux Falls Seminary</item>
+        <item>Sistema Universitario Ana G Mendez</item>
+        <item>SIT</item>
+        <item>Sitting Bull College</item>
+        <item>Skin Science Institute, Inc. DBA Skih Science Institute of Laser &amp; Esthetics-Salt Lake</item>
+        <item>Slippery Rock University of Pennsylvania</item>
+        <item>Snow College</item>
+        <item>Sojourner-Douglass College</item>
+        <item>Solex College</item>
+        <item>Somerset Community College</item>
+        <item>Somerset County Technology Center</item>
+        <item>Sonoma College</item>
+        <item>Sonoma State University</item>
+        <item>South Arkansas Community College</item>
+        <item>South Baylo University</item>
+        <item>South Central Career Center</item>
+        <item>South Central College</item>
+        <item>South Central Louisiana Technical College</item>
+        <item>South College</item>
+        <item>South Dade Technical College</item>
+        <item>South Dakota State University</item>
+        <item>South Florida State College</item>
+        <item>South Georgia Technical College</item>
+        <item>South Hills School of Business and Technology - State College</item>
+        <item>South Piedmont Community College</item>
+        <item>South Plains College</item>
+        <item>South Suburban College of Cook County</item>
+        <item>South Texas College</item>
+        <item>South Texas Training Center</item>
+        <item>South Texas Vo-Tech Institute</item>
+        <item>South University</item>
+        <item>Southcentral Kentucky Community and Technical College</item>
+        <item>Southeast Community College Area</item>
+        <item>Southeast Culinary &amp; Hospitality College</item>
+        <item>Southeast Kentucky Community and Technical College</item>
+        <item>Southeast Missouri State University</item>
+        <item>Southeastern Baptist Theological Seminary</item>
+        <item>Southeastern Beauty College</item>
+        <item>Southeastern Beauty School - Stockbridge</item>
+        <item>Southeastern College</item>
+        <item>Southeastern Community College</item>
+        <item>Southeastern Illinois College</item>
+        <item>Southeastern Louisiana University</item>
+        <item>Southeastern Oklahoma State University</item>
+        <item>Southeastern School of Cosmetology</item>
+        <item>Southern Arkansas University Main Campus</item>
+        <item>Southern Arkansas University Tech</item>
+        <item>Southern Baptist Theological Seminary</item>
+        <item>Southern Careers Institute Inc</item>
+        <item>Southern College of Optometry</item>
+        <item>Southern Connecticut State University</item>
+        <item>Southern Illinois University Carbondale</item>
+        <item>Southern Illinois University Edwardsville</item>
+        <item>Southern Maine Community College</item>
+        <item>Southern Methodist University</item>
+        <item>Southern Nazarene University</item>
+        <item>Southern New Hampshire University</item>
+        <item>Southern Regional Technical College</item>
+        <item>Southern School of Beauty Inc</item>
+        <item>Southern State Community College</item>
+        <item>Southern States University - San Diego</item>
+        <item>Southern Technical College</item>
+        <item>Southern Technical College at Fort Myers</item>
+        <item>Southern Union State Community College</item>
+        <item>Southern University and A &amp; M College</item>
+        <item>Southern Wesleyan University</item>
+        <item>Southern West Virginia Community and Technical College</item>
+        <item>Southside Virginia Community College</item>
+        <item>Southwest Baptist University</item>
+        <item>Southwest Institute of Healing Arts</item>
+        <item>Southwest Minnesota State University</item>
+        <item>Southwest School of Business and Technical Careers</item>
+        <item>Southwest Technical College</item>
+        <item>Southwest Tennessee Community College</item>
+        <item>Southwest Texas Junior College</item>
+        <item>Southwest University of Visual Arts</item>
+        <item>Southwest Virginia Community College</item>
+        <item>Southwestern Baptist Theological Seminary</item>
+        <item>Southwestern Christian University</item>
+        <item>Southwestern College</item>
+        <item>Southwestern Community College</item>
+        <item>Southwestern Illinois College</item>
+        <item>Southwestern Michigan College</item>
+        <item>Southwestern Oklahoma State University</item>
+        <item>Sowela Technical Community College</item>
+        <item>Spartan College of Aeronautics and Technology</item>
+        <item>Spartan College of Aeronautics and Technology - Inglewood</item>
+        <item>Spartanburg Methodist College</item>
+        <item>Spartanburg Technical College</item>
+        <item>Special School District of St. Louis County</item>
+        <item>Spencerian College - Louisville</item>
+        <item>Spoon River College</item>
+        <item>Spring Arbor University</item>
+        <item>Spring International Language Center Littleton</item>
+        <item>Springfield College</item>
+        <item>Springhouse Education and Consulting Services - Exton</item>
+        <item>St Charles Community College</item>
+        <item>St Vincent\'s College at Sacred Heart University</item>
+        <item>St. Bernard\'s School of Theology and Ministry</item>
+        <item>St. Bonaventure University</item>
+        <item>St. Catherine University</item>
+        <item>St. Edward\'s University</item>
+        <item>St. John\'s College</item>
+        <item>St. Johns River State College</item>
+        <item>St. John\'s University</item>
+        <item>St. Louis College of Health Careers</item>
+        <item>St. Mary\'s Bay Area CPE Center</item>
+        <item>St. Petersburg College</item>
+        <item>St. Philip\'s College</item>
+        <item>St. Thomas Aquinas College</item>
+        <item>Stark State College</item>
+        <item>Starting Points, Inc. dba Institute for Early Childhood Educators</item>
+        <item>State Fair Community College</item>
+        <item>State Technical College of Missouri</item>
+        <item>Stautzenberger College</item>
+        <item>StenoTech Career Institute - Piscataway</item>
+        <item>Stenotype Institute of Jacksonville Inc</item>
+        <item>Stephens College</item>
+        <item>Sterling College</item>
+        <item>Stetson University</item>
+        <item>Steuben-Allegany BOCES</item>
+        <item>Stevens Institute of Technology</item>
+        <item>Stevens-Henager College-Ogden</item>
+        <item>Stevenson\'s Academy of Hair Design</item>
+        <item>Stillwater Beauty Academy</item>
+        <item>Stockton University</item>
+        <item>Stone Academy</item>
+        <item>Stratford University</item>
+        <item>Strayer University</item>
+        <item>Study Group: Higher Education North America</item>
+        <item>Suffolk County Community College</item>
+        <item>Suffolk University</item>
+        <item>Sullivan and Cogliano Training Centers</item>
+        <item>Sullivan College of Technology and Design</item>
+        <item>Sullivan County Community College</item>
+        <item>Sullivan University</item>
+        <item>SUM Bible College &amp; Theological Seminary</item>
+        <item>Summit Academy Opportunities Industrialization Center</item>
+        <item>Summit College</item>
+        <item>Summit Salon Academy - Lexington</item>
+        <item>Suncoast Technical College</item>
+        <item>Suncoast Technical Education Center</item>
+        <item>Sunstate Academy</item>
+        <item>SUNY at Albany</item>
+        <item>SUNY at Binghamton</item>
+        <item>SUNY at Buffalo</item>
+        <item>SUNY Broome Community College</item>
+        <item>SUNY Buffalo State</item>
+        <item>SUNY College at Brockport</item>
+        <item>SUNY College at Cortland</item>
+        <item>SUNY College at Oswego</item>
+        <item>SUNY College at Plattsburgh</item>
+        <item>SUNY College of Agriculture &amp; Technology at Morrisville</item>
+        <item>SUNY College of Environmental Science and Forestry</item>
+        <item>SUNY College of Technology at Alfred</item>
+        <item>SUNY College of Technology at Canton</item>
+        <item>SUNY College of Technology at Delhi</item>
+        <item>SUNY Empire State College</item>
+        <item>SUNY Oneonta</item>
+        <item>SUNY Polytechnic Institute</item>
+        <item>SUNY Potsdam</item>
+        <item>SUNY Stony Brook</item>
+        <item>SUNY Upstate Medical University</item>
+        <item>Surry Community College</item>
+        <item>Sussex County Community College</item>
+        <item>T.A. Lawson State Community College</item>
+        <item>Tabor College</item>
+        <item>TALK International</item>
+        <item>Tallahassee Community College</item>
+        <item>Tarleton State University</item>
+        <item>Tarrant County College District</item>
+        <item>Taylor University</item>
+        <item>Teachers College of Columbia University</item>
+        <item>Technical College of the Lowcountry</item>
+        <item>Technical College of the Rockies</item>
+        <item>Temple University</item>
+        <item>Tennessee College of Applied Technology - Athens</item>
+        <item>Tennessee College of Applied Technology - Covington</item>
+        <item>Tennessee College of Applied Technology - Crump</item>
+        <item>Tennessee College of Applied Technology - Dickson</item>
+        <item>Tennessee College of Applied Technology - Elizabethton</item>
+        <item>Tennessee College of Applied Technology - Harriman</item>
+        <item>Tennessee College of Applied Technology - Hartsville</item>
+        <item>Tennessee College of Applied Technology - Hohenwald</item>
+        <item>Tennessee College of Applied Technology - Jacksboro</item>
+        <item>Tennessee College of Applied Technology - Jackson</item>
+        <item>Tennessee College of Applied Technology - Knoxville</item>
+        <item>Tennessee College of Applied Technology - Livingston</item>
+        <item>Tennessee College of Applied Technology - McKenzie</item>
+        <item>Tennessee College of Applied Technology - McMinnville</item>
+        <item>Tennessee College of Applied Technology - Memphis</item>
+        <item>Tennessee College of Applied Technology - Morristown</item>
+        <item>Tennessee College of Applied Technology - Murfreesboro</item>
+        <item>Tennessee College of Applied Technology - Nashville</item>
+        <item>Tennessee College of Applied Technology - Newbern</item>
+        <item>Tennessee College of Applied Technology - Oneida/Huntsville</item>
+        <item>Tennessee College of Applied Technology - Paris</item>
+        <item>Tennessee College of Applied Technology - Pulaski</item>
+        <item>Tennessee College of Applied Technology - Ripley</item>
+        <item>Tennessee College of Applied Technology - Shelbyville</item>
+        <item>Tennessee Wesleyan University</item>
+        <item>Terra State Community College</item>
+        <item>Texarkana College</item>
+        <item>Texas A &amp; M Health Science Center</item>
+        <item>Texas A&amp;M University</item>
+        <item>Texas A&amp;M University - Commerce</item>
+        <item>Texas A&amp;M University - Kingsville</item>
+        <item>Texas Barber College and Hairstyling School  - Houston</item>
+        <item>Texas College of Cosmetology</item>
+        <item>Texas County Technical College</item>
+        <item>Texas Health and Science University</item>
+        <item>Texas Health School</item>
+        <item>Texas State Technical College</item>
+        <item>Texas State Technical College - West Texas</item>
+        <item>Texas State Technical College Marshall</item>
+        <item>Texas State University</item>
+        <item>Texas Tech University Health Sciences Center</item>
+        <item>Texas Wesleyan University</item>
+        <item>Texas Woman\'s University</item>
+        <item>Thaddeus Stevens College of Technology</item>
+        <item>The Academy at Harvard Square English Institute</item>
+        <item>The Academy of Barbering Arts, Inc.</item>
+        <item>The American Academy of Personal Training</item>
+        <item>The American College of Commerce and Technology</item>
+        <item>The Art Institute of Atlanta</item>
+        <item>The Art Institute of Colorado</item>
+        <item>The Art Institute of Las Vegas</item>
+        <item>The Baptist College of Florida</item>
+        <item>The Barber School</item>
+        <item>The Beauty Institute, Inc.</item>
+        <item>The Center for Guided Montessori Studies</item>
+        <item>The Chicago School of Professional Psychology</item>
+        <item>The Chrysm Institute of Esthetics</item>
+        <item>The College of Health Care Professions</item>
+        <item>The College of the Florida Keys</item>
+        <item>The Community College of Baltimore County</item>
+        <item>The English Center</item>
+        <item>The Finishing Trades Institute of the Ohio Region</item>
+        <item>The Illinois Institute of Art - Chicago</item>
+        <item>The Institute for Chaplaincy and Clinical Pastoral Education at Care and Counseling Center of Georgia</item>
+        <item>The Institute of Beauty and Wellness</item>
+        <item>The International Culinary Center</item>
+        <item>The King\'s University</item>
+        <item>The Language Company</item>
+        <item>The Master\'s University and Seminary</item>
+        <item>The Midwest CPE Program Baptist-Lutheran Medical Center</item>
+        <item>The New School</item>
+        <item>The Real Barbers College</item>
+        <item>The Sage Colleges</item>
+        <item>The Salon Professional Academy</item>
+        <item>The Salon Professional Academy - Altoona</item>
+        <item>The Santa Barbara and Ventura Colleges of Law</item>
+        <item>The Scripps Research Institute</item>
+        <item>The Studio Academy of Beauty</item>
+        <item>The University of Findlay</item>
+        <item>The University of Tennessee - Knoxville</item>
+        <item>The University of Tennessee - Martin</item>
+        <item>The University of Texas at Arlington</item>
+        <item>The University of Texas at San Antonio</item>
+        <item>The University of the Arts</item>
+        <item>The University of West Florida</item>
+        <item>The Workforce Institute\'s City College</item>
+        <item>Theological University of the Caribbean</item>
+        <item>Thomas College</item>
+        <item>Thomas Edison State University</item>
+        <item>Thomas Jefferson University</item>
+        <item>Thomas Jefferson University and Philadelphia University</item>
+        <item>Thomas More University</item>
+        <item>Thomas Nelson Community College</item>
+        <item>Three Rivers College</item>
+        <item>Three Rivers Community College</item>
+        <item>Thunderbird School of Global Management</item>
+        <item>Tidewater Community College</item>
+        <item>Tiffin University</item>
+        <item>Tint School of Make-Up &amp; Cosmetology - Dallas</item>
+        <item>TLA - The Language Academy</item>
+        <item>Toccoa Falls College</item>
+        <item>Tohono O\'Odham Community College</item>
+        <item>Tolles Career and Technical Center</item>
+        <item>Tomorrow\'s Image Barber Academy of Virginia</item>
+        <item>Tompkins-Cortland Community College</item>
+        <item>TONI &amp; GUY Hairdressing Academy</item>
+        <item>Toni &amp; Guy Hairdressing Academy - Ambler</item>
+        <item>Toni &amp; Guy Hairdressing Academy - Coeur d\'Alene</item>
+        <item>Toni &amp; Guy Hairdressing Academy - Worchester</item>
+        <item>Toni &amp; Guy Hairdressing Academy\TIGI Creative School</item>
+        <item>Tooele Technical College</item>
+        <item>Touro College</item>
+        <item>Touro University California</item>
+        <item>Touro University Worldwide</item>
+        <item>Towson University</item>
+        <item>Training Centers of Texas</item>
+        <item>Tramy Beauty School</item>
+        <item>Transemantics, Inc. dba International Language Institute</item>
+        <item>Traviss Technical College</item>
+        <item>Trend Barber College</item>
+        <item>Trenz Beauty Academy</item>
+        <item>Tricoci University of Beauty Culture</item>
+        <item>Tricoci University of Beauty Culture, LLC</item>
+        <item>Tri-Community Adult Education</item>
+        <item>Tri-County Community College</item>
+        <item>Trident Technical College</item>
+        <item>Trine University</item>
+        <item>Trinidad State Junior College</item>
+        <item>Trinity Bible College and Graduate School</item>
+        <item>Trinity Christian College</item>
+        <item>Trinity International University</item>
+        <item>Trinity Valley Community College</item>
+        <item>Trinity Washington University</item>
+        <item>Tri-Rivers Career Center</item>
+        <item>Tri-State Bible College</item>
+        <item>Tri-State Cosmetology Institute 1</item>
+        <item>Triton College</item>
+        <item>Trocaire College</item>
+        <item>Troy University</item>
+        <item>Tufts University</item>
+        <item>Tulane University</item>
+        <item>Tulsa Community College</item>
+        <item>Tulsa Welding School</item>
+        <item>Turner Job Corps Center - Albany</item>
+        <item>Turning Point Beauty College</item>
+        <item>Turtle Mountain Community College</item>
+        <item>Tusculum University</item>
+        <item>Twin City Beauty College</item>
+        <item>U. S. Army Medical Department Center and School</item>
+        <item>U.S. Army Command and General Staff College</item>
+        <item>U.S. Army Ordnance Munitions and Electronics Maintence School</item>
+        <item>U.S. Naval War College, The</item>
+        <item>UA Local 290 College of Mechanical Systems &amp; Technology</item>
+        <item>UCAS University of Cosmetology Arts &amp; Sciences</item>
+        <item>UEI College - Fresno</item>
+        <item>UEI College - Gardena</item>
+        <item>Uintah Basin Technical College</item>
+        <item>Ulster BOCES</item>
+        <item>Ulster County Community College</item>
+        <item>Ultimate Medical Academy - Clearwater</item>
+        <item>Umpqua Community College</item>
+        <item>Unification Theological Seminary</item>
+        <item>Uniformed Services University of the Health Sciences</item>
+        <item>Union College</item>
+        <item>Union County College</item>
+        <item>Union Graduate College</item>
+        <item>Union Institute &amp; University</item>
+        <item>Union Presbyterian Seminary</item>
+        <item>Union University</item>
+        <item>Unitech Training Academy - Lafayette</item>
+        <item>United Education Institute - Huntington Park Campus</item>
+        <item>United Lutheran Seminary</item>
+        <item>United Theological Seminary of the Twin Cities</item>
+        <item>Unitek College</item>
+        <item>Universal Spa Training Academy, Inc.</item>
+        <item>Universal Technology College of Puerto Rico</item>
+        <item>Universidad Adventista de las Antillas</item>
+        <item>Universidad Ana G. Mendez – Carolina Campus</item>
+        <item>Universidad Ana G. Mendez – Cupey Campus</item>
+        <item>Universidad Ana G. Mendez – Gurabo Campus</item>
+        <item>Universidad Central de Bayamon</item>
+        <item>Universidad Pentecostal Mizpa</item>
+        <item>University of Akron</item>
+        <item>University of Akron - Wayne College</item>
+        <item>University of Alabama at Birmingham</item>
+        <item>University of Alaska Fairbanks</item>
+        <item>University of Antelope Valley</item>
+        <item>University of Arizona</item>
+        <item>University of Arkansas - Pulaski Technical College</item>
+        <item>University of Arkansas at Little Rock</item>
+        <item>University of Arkansas at Monticello</item>
+        <item>University of Arkansas at Pine Bluff</item>
+        <item>University of Arkansas Community College at Hope-Texarkana</item>
+        <item>University of Arkansas Community College-Batesville</item>
+        <item>University of Arkansas Community College-Morrilton</item>
+        <item>University of Arkansas for Medical Sciences</item>
+        <item>University of Arkansas Rich Mountain</item>
+        <item>University of Arkansas, Fayetteville</item>
+        <item>University of Arkansas-Fort Smith</item>
+        <item>University of Baltimore</item>
+        <item>University of Bridgeport</item>
+        <item>University of California - Davis</item>
+        <item>University of California, Irvine</item>
+        <item>University of California, Riverside</item>
+        <item>University of California, San Francisco</item>
+        <item>University of California, Santa Cruz</item>
+        <item>University of Central Arkansas</item>
+        <item>University of Central Florida</item>
+        <item>University of Central Missouri</item>
+        <item>University of Central Oklahoma</item>
+        <item>University of Charleston</item>
+        <item>University of Chicago</item>
+        <item>University of Cincinnati</item>
+        <item>University of Cincinnati Clermont College</item>
+        <item>University of Colorado at Colorado Springs</item>
+        <item>University of Colorado Denver</item>
+        <item>University of Connecticut</item>
+        <item>University of Cosmetology - Sullivan</item>
+        <item>University of Cosmetology Arts &amp; Sciences - McAllen</item>
+        <item>University of Dayton</item>
+        <item>University of Delaware</item>
+        <item>University of Denver</item>
+        <item>University of Detroit Mercy</item>
+        <item>University of Dubuque</item>
+        <item>University of Evansville</item>
+        <item>University of Florida</item>
+        <item>University of Georgia</item>
+        <item>University of Hartford</item>
+        <item>University of Hawaii at Manoa</item>
+        <item>University of Hawaii Maui College</item>
+        <item>University of Houston</item>
+        <item>University of Houston - Clear Lake</item>
+        <item>University of Illinois at Chicago</item>
+        <item>University of Illinois at Springfield</item>
+        <item>University of Illinois at Urbana-Champaign</item>
+        <item>University of Indianapolis</item>
+        <item>University of Iowa</item>
+        <item>University of Jamestown</item>
+        <item>University of Kansas</item>
+        <item>University of Kentucky</item>
+        <item>University of Louisiana at Lafayette</item>
+        <item>University of Louisville</item>
+        <item>University of Maine</item>
+        <item>University of Maine at Augusta</item>
+        <item>University of Maine at Farmington</item>
+        <item>University of Maine at Fort Kent</item>
+        <item>University of Maine at Presque Isle</item>
+        <item>University of Mary</item>
+        <item>University of Mary Washington</item>
+        <item>University of Maryland - Baltimore</item>
+        <item>University of Maryland - Baltimore County</item>
+        <item>University of Maryland - College Park</item>
+        <item>University of Maryland - Eastern Shore</item>
+        <item>University of Maryland Global Campus</item>
+        <item>University of Massachusetts - Lowell</item>
+        <item>University of Massachusetts Amherst</item>
+        <item>University of Massachusetts Boston</item>
+        <item>University of Massachusetts Dartmouth</item>
+        <item>University of Massachusetts Worcester/University of Massachusetts Medical School</item>
+        <item>University of Miami</item>
+        <item>University of Michigan - Ann Arbor</item>
+        <item>University of Michigan Dearborn</item>
+        <item>University of Michigan Flint</item>
+        <item>University of Minnesota - Crookston</item>
+        <item>University of Minnesota - Duluth</item>
+        <item>University of Minnesota - Twin Cities</item>
+        <item>University of Minnesota Medical Center - Fairview</item>
+        <item>University of Mississippi</item>
+        <item>University of Missouri - Columbia</item>
+        <item>University of Missouri - Kansas City</item>
+        <item>University of Missouri - St Louis</item>
+        <item>University of Mount Olive</item>
+        <item>University of Nebraska - Kearney</item>
+        <item>University of Nebraska - Lincoln</item>
+        <item>University of Nebraska - Omaha</item>
+        <item>University of Nebraska College of Technical Agriculture</item>
+        <item>University of Nebraska Medical Center</item>
+        <item>University of New England</item>
+        <item>University of New Hampshire</item>
+        <item>University of New Haven</item>
+        <item>University of New Mexico</item>
+        <item>University of New Orleans</item>
+        <item>University of North Carolina at Chapel Hill</item>
+        <item>University of North Carolina at Charlotte</item>
+        <item>University of North Dakota</item>
+        <item>University of North Texas</item>
+        <item>University of Northern Colorado</item>
+        <item>University of Northern Iowa</item>
+        <item>University of Northwestern - St. Paul</item>
+        <item>University of Notre Dame</item>
+        <item>University of Oklahoma</item>
+        <item>University of Pennsylvania</item>
+        <item>University of Phoenix</item>
+        <item>University of Pittsburgh - Main Campus</item>
+        <item>University of Puerto Rico - Mayaguez</item>
+        <item>University of Puerto Rico - Medical Sciences Campus</item>
+        <item>University of Puerto Rico - Rio Piedras Campus</item>
+        <item>University of Redlands</item>
+        <item>University of Rhode Island</item>
+        <item>University of Rio Grande/Rio Grande Community College</item>
+        <item>University of Rochester</item>
+        <item>University of Saint Francis - Fort Wayne</item>
+        <item>University of Saint Joseph</item>
+        <item>University of Saint Mary</item>
+        <item>University of San Francisco</item>
+        <item>University of Scranton</item>
+        <item>University of Sioux Falls</item>
+        <item>University of South Alabama</item>
+        <item>University of South Carolina - Beaufort</item>
+        <item>University of South Carolina - Columbia</item>
+        <item>University of South Dakota</item>
+        <item>University of South Florida</item>
+        <item>University of Southern California</item>
+        <item>University of Southern Indiana</item>
+        <item>University of Southern Maine</item>
+        <item>University of Southern Mississippi</item>
+        <item>University of Southernmost Florida</item>
+        <item>University of Southernmost Florida - Coral Gables Campus</item>
+        <item>University of St. Augustine for Health Sciences</item>
+        <item>University of St. Francis</item>
+        <item>University of St. Thomas</item>
+        <item>University of Texas at Austin</item>
+        <item>University of Texas at Tyler</item>
+        <item>University of Texas Health Science Center Houston</item>
+        <item>University of Texas Health Science San Antonio</item>
+        <item>University of the District of Columbia</item>
+        <item>University of the Incarnate Word</item>
+        <item>University of the Pacific</item>
+        <item>University of the Potomac</item>
+        <item>University of the Rockies</item>
+        <item>University of the Sciences</item>
+        <item>University of the Virgin Islands</item>
+        <item>University of Toledo</item>
+        <item>University of Tulsa</item>
+        <item>University of Utah</item>
+        <item>University of Valley Forge</item>
+        <item>University of Virginia</item>
+        <item>University of Washington</item>
+        <item>University of West Georgia</item>
+        <item>University of Wisconsin - Eau Claire</item>
+        <item>University of Wisconsin - Green Bay</item>
+        <item>University of Wisconsin - La Crosse</item>
+        <item>University of Wisconsin - Madison</item>
+        <item>University of Wisconsin - Milwaukee</item>
+        <item>University of Wisconsin - Oshkosh</item>
+        <item>University of Wisconsin - Platteville</item>
+        <item>University of Wisconsin - River Falls</item>
+        <item>University of Wisconsin - Stevens Point</item>
+        <item>University of Wisconsin - Stout</item>
+        <item>University of Wisconsin - Whitewater</item>
+        <item>University of Wisconsin Colleges</item>
+        <item>University of Wyoming</item>
+        <item>Upper Iowa University</item>
+        <item>Urban 113 School of Cosmetology</item>
+        <item>Urban College of Boston</item>
+        <item>Urbana University</item>
+        <item>Urshan College and Urshan Graduate School of Theology</item>
+        <item>Ursuline College</item>
+        <item>US PC Tech Learning Center</item>
+        <item>Utah College of Massage Therapy Inc</item>
+        <item>Utah State University</item>
+        <item>Utica College</item>
+        <item>Utica School of Commerce</item>
+        <item>VA Eastern Colorado Health Care System</item>
+        <item>VA Midwest Health Care Network</item>
+        <item>Valencia College</item>
+        <item>Valley City State University</item>
+        <item>Valley College of Medical Careers</item>
+        <item>Valley Forge Military College</item>
+        <item>Valparaiso University</item>
+        <item>Vance-Granville Community College</item>
+        <item>Vanguard College of Cosmetology A Paul Mitchell Partner School - Metairie</item>
+        <item>Vanguard Institute of Technology</item>
+        <item>Vanguard-Sentinel Career &amp; Technology Center</item>
+        <item>Vantage College</item>
+        <item>Vantage College - San Antonio North</item>
+        <item>Vaughn College of Aeronautics and Technology</item>
+        <item>Ventura Adult and Continuing Education</item>
+        <item>Vermont Technical College</item>
+        <item>Vernon College</item>
+        <item>Verve College</item>
+        <item>Vici Beauty School - Greenfield</item>
+        <item>Villanova University</item>
+        <item>Vincennes University</item>
+        <item>Virginia College - Birmingham</item>
+        <item>Virginia Commonwealth University</item>
+        <item>Virginia Intermont College</item>
+        <item>Virginia Montessori Teacher Education Center</item>
+        <item>Virginia Polytechnic Institute and State University</item>
+        <item>Virginia State University</item>
+        <item>Virginia Western Community College</item>
+        <item>Visible Music College</item>
+        <item>Vista College</item>
+        <item>VITAS: Innovative Hospice Care</item>
+        <item>Viterbo University</item>
+        <item>Vogue Beauty and Barber School</item>
+        <item>Wade Gordon Hairdressing Academy</item>
+        <item>Wagner College</item>
+        <item>Wake Technical Community College</item>
+        <item>Walsh College of Accountancy and Business Administration</item>
+        <item>Walsh University</item>
+        <item>Walters State Community College</item>
+        <item>Wards Corner Beauty Academy, Inc.</item>
+        <item>Warren County Career Center</item>
+        <item>Warren County Community College</item>
+        <item>Wartburg Theological Seminary</item>
+        <item>Washburn University of Topeka</item>
+        <item>Washington Adventist University</item>
+        <item>Washington Barber College</item>
+        <item>Washington Bible College and Capital Bible Seminary</item>
+        <item>Washington County Community College</item>
+        <item>Washington State Community College</item>
+        <item>Washington State University</item>
+        <item>Washington University in St Louis</item>
+        <item>Washington University of Virginia</item>
+        <item>Washington-Saratoga-Warren-Hamilton-Essex BOCES</item>
+        <item>Washtenaw Community College</item>
+        <item>Waubonsee Community College</item>
+        <item>Waukesha County Technical College</item>
+        <item>Wayland Baptist University</item>
+        <item>Wayne Community College</item>
+        <item>Wayne County Community College District</item>
+        <item>Wayne State College</item>
+        <item>Wayne State University</item>
+        <item>Wayne-Finger Lakes BOCES</item>
+        <item>Waynesburg University</item>
+        <item>Webber International University</item>
+        <item>Webster University</item>
+        <item>WellSpring School of Allied Health</item>
+        <item>Wentworth Institute of Technology</item>
+        <item>Wentworth Military Academy and College</item>
+        <item>Wesley College</item>
+        <item>Wesleyan College</item>
+        <item>West Chester University of Pennsylvania</item>
+        <item>West Coast Ultrasound Institute</item>
+        <item>West Coast University</item>
+        <item>West Georgia Technical College</item>
+        <item>West Liberty University</item>
+        <item>West Shore Community College</item>
+        <item>West Side Montessori School\'s Teacher Education Program</item>
+        <item>West Virginia Business College - Wheeling</item>
+        <item>West Virginia Junior College - Charleston</item>
+        <item>West Virginia Junior College - Morgantown</item>
+        <item>West Virginia Northern Community College</item>
+        <item>West Virginia University</item>
+        <item>West Virginia University at Parkersburg</item>
+        <item>Westchester Community College</item>
+        <item>Westech College</item>
+        <item>Western Beauty Institute</item>
+        <item>Western Carolina University</item>
+        <item>Western Connecticut State University</item>
+        <item>Western Dakota Technical Institute</item>
+        <item>Western Illinois University</item>
+        <item>Western International University</item>
+        <item>Western Iowa Tech Community College</item>
+        <item>Western Kentucky University</item>
+        <item>Western Maricopa Education Center</item>
+        <item>Western Michigan University</item>
+        <item>Western Michigan University Thomas M. Cooley Law School</item>
+        <item>Western Nebraska Community College</item>
+        <item>Western New England University</item>
+        <item>Western New Mexico University</item>
+        <item>Western Oklahoma State College</item>
+        <item>Western Seminary</item>
+        <item>Western Suffolk BOCES</item>
+        <item>Western Technical College</item>
+        <item>Western University of Health Sciences</item>
+        <item>Western Wyoming Community College</item>
+        <item>WestMed College</item>
+        <item>Westminster College</item>
+        <item>Westminster Theological Seminary</item>
+        <item>Westmoreland County Community College</item>
+        <item>Westwood College - Denver North</item>
+        <item>Westwood College - Dupage</item>
+        <item>Westwood College - Long Beach</item>
+        <item>Westwood College - Los Angeles</item>
+        <item>Westwood College - O\'Hare Airport</item>
+        <item>Wharton County Junior College</item>
+        <item>Wheaton College</item>
+        <item>Wheeling University</item>
+        <item>Wheelock College</item>
+        <item>White Mountains Community College</item>
+        <item>Whittier College</item>
+        <item>Wichita State University</item>
+        <item>Wichita State University Campus of Applied Sciences and Technology</item>
+        <item>Wichita Technical Institute</item>
+        <item>Widener University</item>
+        <item>Wilberforce University</item>
+        <item>Wilkes Community College</item>
+        <item>Wilkes University</item>
+        <item>William Carey University</item>
+        <item>William Jessup University</item>
+        <item>William Loveland College</item>
+        <item>William M. Maguy School of Education</item>
+        <item>William Paterson University of New Jersey</item>
+        <item>William Penn University</item>
+        <item>William R. Moore College of Technology</item>
+        <item>William T. McFatter Technical College</item>
+        <item>William Woods University</item>
+        <item>Williston State College</item>
+        <item>Wilmington College</item>
+        <item>Wilmington University</item>
+        <item>Wilson College</item>
+        <item>Winebrenner Theological Seminary</item>
+        <item>Wingate University</item>
+        <item>Winona State University</item>
+        <item>Wiregrass Georgia Technical College</item>
+        <item>Wisconsin Indianhead Technical College</item>
+        <item>Wisconsin Lutheran College</item>
+        <item>Withlacoochee Technical College</item>
+        <item>Wood County Technical Center</item>
+        <item>Woodbury University</item>
+        <item>Woodruff Medical Training &amp; Testing</item>
+        <item>World Mission University</item>
+        <item>Wor-Wic Community College</item>
+        <item>Wright Career College</item>
+        <item>Wright State University</item>
+        <item>Wrightco Technologies Technical Training Institute</item>
+        <item>WyoTech - Laramie</item>
+        <item>Xavier University</item>
+        <item>Xenon International Academy II, Inc.</item>
+        <item>Yale - New Haven Hospital</item>
+        <item>Yale University</item>
+        <item>Yavapai College</item>
+        <item>Yeshiva University</item>
+        <item>Yeshivas Be\'er Yitzchok</item>
+        <item>York College of Pennsylvania</item>
+        <item>York County Community College</item>
+        <item>York Hospital/WellSpan Health</item>
+        <item>Youngstown State University</item>
+        <item>YTI Career Institute - York</item>
+        <item>Z Hair Academy, Inc.</item>
+        <item>Zane State College</item>
+    </string-array>
+</resources>

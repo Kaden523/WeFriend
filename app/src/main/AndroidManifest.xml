@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wefriend.wefriend">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!--
+    Allows Glide to monitor connectivity status and restart failed requests if users go from a
+    a disconnected to a connected network state.
+    -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".Supports.FirebaseaHandler"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:screenOrientation="portrait"
+        >
+
+        <activity android:name=".account.ChangePasswordActivity"
+            android:screenOrientation="portrait"
+            ></activity>
+        <activity android:name=".account.ManageAccountActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".Main.SearchFilterActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".Main.CheckUserInfoActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".Main.Friends.ChatActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".Main.Friends.FriendsActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".introduction.Introduction" />
+        <activity android:name=".login.RegisterCollegeActivity" />
+        <activity android:name=".Main.SettingActivity" />
+        <activity android:name=".login.RegisterNameActivity" />
+        <activity android:name=".login.RegisterActivity" />
+        <activity android:name=".login.RegisterGenderActivity" />
+        <activity android:name=".account.EditAccountActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".login.LoginActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".Main.MainActivity"
+            android:screenOrientation="portrait"
+            />
+        <activity android:name=".Main.BufferActivity" />
+        <activity
+            android:name=".introduction.WelcomeScreenActivity"
+            android:icon="@drawable/loginlogo"
+            android:label="WeFriend">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
